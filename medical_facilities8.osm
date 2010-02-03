@@ -9,9 +9,9 @@
       <tag k="name" v="DISPENSAIRE DE MARMONT"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95323"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-402" lat="18.956986871" lon="-71.9261953148">
       <tag k="health_facility:commune_id" v="12"/>
@@ -21,10 +21,10 @@
       <tag k="name" v="DISPENSAIRE HOYE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95324"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-403" lat="18.9354418178" lon="-73.2015430161">
       <tag k="health_facility:commune_id" v="52"/>
@@ -34,10 +34,10 @@
       <tag k="name" v="DISPENSAIRE LA SOURCE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="15201"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-404" lat="18.9154148682" lon="-73.2176671256">
       <tag k="health_facility:commune_id" v="52"/>
@@ -47,10 +47,10 @@
       <tag k="name" v="DISPENSAIRE DE TOMARIN"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="COMMUNAUTAIRE"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="COMMUNAUTAIRE"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="15202"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-405" lat="18.8258409535" lon="-73.0612372611">
       <tag k="health_facility:commune_id" v="52"/>
@@ -60,10 +60,10 @@
       <tag k="name" v="CENTE WOLD VISION DE TI PALMIS"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="WOLD VISION"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="WOLD VISION"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="15204"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-406" lat="18.9298772486" lon="-73.112469802">
       <tag k="health_facility:commune_id" v="52"/>
@@ -73,10 +73,10 @@
       <tag k="name" v="CENTRE WOLD VISION DE GROS MANGLE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="WOLD VISION"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="WOLD VISION"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="15203"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-407" lat="18.8186556185" lon="-73.1226895708">
       <tag k="health_facility:commune_id" v="52"/>
@@ -86,10 +86,10 @@
       <tag k="name" v="DISPENSAIRE METHODISTE DE SOURCE A PHILIPPE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="EGLISE METHODISTE"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="EGLISE METHODISTE"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="15206"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-408" lat="19.1653686928" lon="-72.2315642956">
       <tag k="health_facility:commune_id" v="12"/>
@@ -99,10 +99,10 @@
       <tag k="name" v="MADAME JOA"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP / SAVE THE CHILDREN"/>
+      <tag k="health_facility:organisation" v="MSPP / SAVE THE CHILDREN"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95325"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-409" lat="18.7855381363" lon="-72.0305153367">
       <tag k="health_facility:commune_id" v="21"/>
@@ -114,7 +114,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95326"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-410" lat="18.8004374152" lon="-72.0047156123">
       <tag k="health_facility:commune_id" v="21"/>
@@ -124,9 +124,9 @@
       <tag k="name" v="DISPENSAIRE DE SARAZIN"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95327"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-411" lat="18.8006833305" lon="-71.782641225">
       <tag k="health_facility:commune_id" v="32"/>
@@ -136,9 +136,9 @@
       <tag k="name" v="DISPENSAIRE DE BAPTISTE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95328"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-412" lat="18.7458733105" lon="-71.8227004962">
       <tag k="health_facility:commune_id" v="33"/>
@@ -148,9 +148,9 @@
       <tag k="name" v="CENTRE DE SANTE DE SAVANETTE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95329"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-413" lat="19.4391139782" lon="-72.6348862564">
       <tag k="health_facility:commune_id" v="11"/>
@@ -160,10 +160,10 @@
       <tag k="name" v="CDS EBEN EZER"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Dr Petit-Phard Bernadin"/>
+      <tag k="health_facility:organisation" v="Dr Petit-Phard Bernadin"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95330"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-414" lat="18.8317877283" lon="-71.9356588197">
       <tag k="health_facility:commune_id" v="31"/>
@@ -173,10 +173,10 @@
       <tag k="name" v="CDS de Las Cahobas (UnitT de Maladie Infectueuse)"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Dr Wesler Lambert"/>
+      <tag k="health_facility:organisation" v="Dr Wesler Lambert"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95331"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-415" lat="19.4425891566" lon="-72.6801912197">
       <tag k="health_facility:commune_id" v="11"/>
@@ -186,10 +186,10 @@
       <tag k="name" v="DISPENSAIRE DE TROU SABLE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="FILLES DE LA MISERICORDE"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="FILLES DE LA MISERICORDE"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95332"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-416" lat="18.5493884732" lon="-72.3259753738">
       <tag k="health_facility:commune_id" v="11"/>
@@ -201,7 +201,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95333"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-417" lat="18.6442726955" lon="-74.1135521009">
       <tag k="health_facility:commune_id" v="11"/>
@@ -211,10 +211,10 @@
       <tag k="name" v="FOSREF JEUNES JEREMIE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Mme Betty Jerome Jean Michel"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="Mme Betty Jerome Jean Michel"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95334"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-418" lat="18.4429394729" lon="-73.0906423799">
       <tag k="health_facility:commune_id" v="41"/>
@@ -224,10 +224,10 @@
       <tag k="name" v="FOSREF LAKAY MIRAGOANE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Jacky Badette"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="Jacky Badette"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95335"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-419" lat="18.5437002714" lon="-72.3215764338">
       <tag k="health_facility:commune_id" v="11"/>
@@ -237,10 +237,10 @@
       <tag k="name" v="FAME PEREO"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11127"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-420" lat="18.3611881624" lon="-73.2308768128">
       <tag k="health_facility:commune_id" v="41"/>
@@ -250,10 +250,10 @@
       <tag k="name" v="CLINIQUE BETHEL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="ARMEE DU SALUT/MSPP"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="ARMEE DU SALUT/MSPP"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95336"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-421" lat="18.3715291402" lon="-73.292780559">
       <tag k="health_facility:commune_id" v="41"/>
@@ -263,10 +263,10 @@
       <tag k="name" v="DISPENSAIRE DE BOUZY"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP/EGLISE CATHOLIQUE"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP/EGLISE CATHOLIQUE"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95337"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-422" lat="18.5336453952" lon="-72.3532958594">
       <tag k="health_facility:commune_id" v="11"/>
@@ -276,10 +276,10 @@
       <tag k="name" v="FONDEPH - MARTISSANT"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="ROC MichFle"/>
+      <tag k="health_facility:organisation" v="ROC MichFle"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95338"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-423" lat="18.5341156706" lon="-72.3981818783">
       <tag k="health_facility:commune_id" v="13"/>
@@ -291,7 +291,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95339"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-424" lat="18.5321159449" lon="-72.3887355359">
       <tag k="health_facility:commune_id" v="13"/>
@@ -303,7 +303,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95340"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-425" lat="18.5319665594" lon="-72.3372943367">
       <tag k="health_facility:commune_id" v="11"/>
@@ -315,7 +315,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95341"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-426" lat="18.5441184303" lon="-72.3160504394">
       <tag k="health_facility:commune_id" v="12"/>
@@ -325,10 +325,10 @@
       <tag k="name" v="FOSREF CHRIST-ROI"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11151"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-427" lat="18.6153758159" lon="-72.2758844773">
       <tag k="health_facility:commune_id" v="31"/>
@@ -340,7 +340,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95342"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-428" lat="18.5532687885" lon="-72.3219668059">
       <tag k="health_facility:commune_id" v="12"/>
@@ -350,10 +350,10 @@
       <tag k="name" v="FOSREF-DELMAS"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11151"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-429" lat="18.5547228444" lon="-72.3111885416">
       <tag k="health_facility:commune_id" v="12"/>
@@ -363,9 +363,9 @@
       <tag k="name" v="FOSREF-J. DELMAS 19"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95343"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-430" lat="18.5430356157" lon="-72.3448387124">
       <tag k="health_facility:commune_id" v="11"/>
@@ -375,10 +375,10 @@
       <tag k="name" v="FOSREF LAKAY GRAND-RUE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11151"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-431" lat="18.4429394729" lon="-73.0906423799">
       <tag k="health_facility:commune_id" v="41"/>
@@ -388,9 +388,9 @@
       <tag k="name" v="FOSREF- J. DE MIRAGOANE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95344"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-432" lat="18.5447836634" lon="-72.3349559855">
       <tag k="health_facility:commune_id" v="11"/>
@@ -400,10 +400,10 @@
       <tag k="name" v="FOSREF-LALUE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11151"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-433" lat="18.5075798844" lon="-72.6257603497">
       <tag k="health_facility:commune_id" v="21"/>
@@ -415,7 +415,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95345"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-434" lat="18.4430015504" lon="-73.0986214622">
       <tag k="health_facility:commune_id" v="41"/>
@@ -425,9 +425,9 @@
       <tag k="name" v="FOSREF-LAKAY MIRAGOANE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95346"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-435" lat="19.9391010325" lon="-72.8340444356">
       <tag k="health_facility:commune_id" v="11"/>
@@ -437,9 +437,9 @@
       <tag k="name" v="FOSREF-LAKAY PORT-DE-PAIX"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95347"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-436" lat="18.517031406" lon="-72.2909821469">
       <tag k="health_facility:commune_id" v="14"/>
@@ -451,7 +451,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95348"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-437" lat="18.513639727" lon="-72.2912343434">
       <tag k="health_facility:commune_id" v="14"/>
@@ -463,7 +463,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95349"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-438" lat="18.1984813749" lon="-73.7505005601">
       <tag k="health_facility:commune_id" v="11"/>
@@ -473,10 +473,10 @@
       <tag k="name" v="FOSREF-LAKAY CAYES"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Janette Jean Louis (miss), Marjorie Louis- Jean"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="Janette Jean Louis (miss), Marjorie Louis- Jean"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95350"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-439" lat="18.548873978" lon="-72.3240803881">
       <tag k="health_facility:commune_id" v="11"/>
@@ -486,10 +486,10 @@
       <tag k="name" v="FOSREF- SOLINO"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11109"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-440" lat="19.1059505363" lon="-72.6942189252">
       <tag k="health_facility:commune_id" v="31"/>
@@ -499,9 +499,9 @@
       <tag k="name" v="FOSREF-LAKAY ST MARC"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95351"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-441" lat="18.195265702" lon="-73.7562814825">
       <tag k="health_facility:commune_id" v="11"/>
@@ -511,10 +511,10 @@
       <tag k="name" v="FOSREF JEUNES CAYES"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Kerline L. Jocelyn"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="Kerline L. Jocelyn"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95352"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-442" lat="19.4445422021" lon="-71.769143634">
       <tag k="health_facility:commune_id" v="21"/>
@@ -524,10 +524,10 @@
       <tag k="name" v="CENTRE DE SANTE GENS DE NANTES"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MISSION BAPTISTE"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="MISSION BAPTISTE"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95353"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-443" lat="18.5372065808" lon="-72.3496624015">
       <tag k="health_facility:commune_id" v="11"/>
@@ -537,10 +537,10 @@
       <tag k="name" v="GHESKIO"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="11136"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-444" lat="19.1134891695" lon="-72.6990362032">
       <tag k="health_facility:commune_id" v="31"/>
@@ -552,7 +552,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95354"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-445" lat="19.0747619916" lon="-72.4914999188">
       <tag k="health_facility:commune_id" v="32"/>
@@ -564,7 +564,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="53201"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-446" lat="18.2810461375" lon="-73.3975467085">
       <tag k="health_facility:commune_id" v="31"/>
@@ -574,10 +574,10 @@
       <tag k="name" v="Hopital Communautaire de rTfTrence de Aquin"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Docteur Daniel Comeau"/>
+      <tag k="health_facility:organisation" v="Docteur Daniel Comeau"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95355"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-447" lat="19.1455525798" lon="-72.0100224572">
       <tag k="health_facility:commune_id" v="11"/>
@@ -587,10 +587,10 @@
       <tag k="name" v="Hopital Sainte TherFse"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Dr Frantz MontFs"/>
+      <tag k="health_facility:organisation" v="Dr Frantz MontFs"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95356"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-448" lat="18.1935623065" lon="-73.7500250572">
       <tag k="health_facility:commune_id" v="11"/>
@@ -600,10 +600,10 @@
       <tag k="name" v="Hopital ImaculTe Conception des Cayes"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP-Dr MTdical: Dr Marie Josette Calixte"/>
+      <tag k="health_facility:organisation" v="MSPP-Dr MTdical: Dr Marie Josette Calixte"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95357"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-449" lat="18.3936200205" lon="-73.6138402824">
       <tag k="health_facility:commune_id" v="33"/>
@@ -613,10 +613,10 @@
       <tag k="name" v="Hopital LumiFre Bonne Fin"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="M. Wester Exy"/>
+      <tag k="health_facility:organisation" v="M. Wester Exy"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95358"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-450" lat="18.8308540437" lon="-71.9337795987">
       <tag k="health_facility:commune_id" v="31"/>
@@ -626,10 +626,10 @@
       <tag k="name" v="Hopital de Las Cahobas (Freinds of the Children)"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Dr Paul Marc Shera/Estelle Dubuisson"/>
+      <tag k="health_facility:organisation" v="Dr Paul Marc Shera/Estelle Dubuisson"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95359"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
   </create>
 </osmChange>

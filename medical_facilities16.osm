@@ -11,7 +11,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95693"/>
-      <tag k="source" v="Ushahidi"/>
+      <tag k="source:health_facility" v="Ushahidi"/>
     </node>
     <node id="-802" lat="18.539914" lon="-72.340166">
       <tag k="health_facility:commune_id" v="11"/>
@@ -23,7 +23,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95694"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-803" lat="18.54094" lon="-72.33874">
       <tag k="health_facility:commune_id" v="11"/>
@@ -33,9 +33,9 @@
       <tag k="name" v="Medical Center near Rue Magny and Rue Oswald Durand"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95695"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-804" lat="18.541" lon="-72.3389">
       <tag k="health_facility:commune_id" v="11"/>
@@ -47,7 +47,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95696"/>
-      <tag k="source" v="Ushahidi"/>
+      <tag k="source:health_facility" v="Ushahidi"/>
     </node>
     <node id="-805" lat="18.539" lon="-72.335">
       <tag k="health_facility:commune_id" v="11"/>
@@ -59,7 +59,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95697"/>
-      <tag k="source" v="PEPFAR"/>
+      <tag k="source:health_facility" v="PEPFAR"/>
     </node>
     <node id="-806" lat="18.539" lon="-72.335">
       <tag k="health_facility:commune_id" v="11"/>
@@ -71,7 +71,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95698"/>
-      <tag k="source" v="PEPFAR"/>
+      <tag k="source:health_facility" v="PEPFAR"/>
     </node>
     <node id="-807" lat="18.539" lon="-72.335">
       <tag k="health_facility:commune_id" v="11"/>
@@ -83,7 +83,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95699"/>
-      <tag k="source" v="PEPFAR"/>
+      <tag k="source:health_facility" v="PEPFAR"/>
     </node>
     <node id="-808" lat="18.539" lon="-72.335">
       <tag k="health_facility:commune_id" v="11"/>
@@ -95,7 +95,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95700"/>
-      <tag k="source" v="PEPFAR"/>
+      <tag k="source:health_facility" v="PEPFAR"/>
     </node>
     <node id="-809" lat="18.539" lon="-72.335">
       <tag k="health_facility:commune_id" v="11"/>
@@ -107,7 +107,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95701"/>
-      <tag k="source" v="PEPFAR, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, WHO"/>
     </node>
     <node id="-810" lat="18.539" lon="-72.335">
       <tag k="health_facility:commune_id" v="11"/>
@@ -119,7 +119,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95702"/>
-      <tag k="source" v="WHO"/>
+      <tag k="source:health_facility" v="WHO"/>
     </node>
     <node id="-811" lat="18.53781" lon="-72.340329">
       <tag k="health_facility:commune_id" v="11"/>
@@ -129,9 +129,9 @@
       <tag k="name" v="Medical Center near Rue Oswald Durand"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95703"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-812" lat="18.5366" lon="-72.3275">
       <tag k="health_facility:commune_id" v="11"/>
@@ -143,7 +143,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95704"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-813" lat="18.5387" lon="-72.3444">
       <tag k="health_facility:commune_id" v="11"/>
@@ -155,7 +155,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95705"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-814" lat="18.53826" lon="-72.34393">
       <tag k="health_facility:commune_id" v="11"/>
@@ -165,9 +165,9 @@
       <tag k="name" v="Medical Center near Morne a Tuf"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95706"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-815" lat="18.53728" lon="-72.34526">
       <tag k="health_facility:commune_id" v="11"/>
@@ -177,9 +177,9 @@
       <tag k="name" v="Medical Center near Rue Charvron"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95707"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-816" lat="18.5348" lon="-72.3473">
       <tag k="health_facility:commune_id" v="11"/>
@@ -189,9 +189,9 @@
       <tag k="name" v="Centre de Sante du Portail Leogane"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95708"/>
-      <tag k="source" v="Ushahidi"/>
+      <tag k="source:health_facility" v="Ushahidi"/>
     </node>
     <node id="-817" lat="18.5349" lon="-72.3426">
       <tag k="health_facility:commune_id" v="11"/>
@@ -201,9 +201,9 @@
       <tag k="name" v="Medical Center"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95709"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-818" lat="18.53549" lon="-72.34189">
       <tag k="health_facility:commune_id" v="11"/>
@@ -213,9 +213,9 @@
       <tag k="name" v="Medical Center near Rue du Docteur Dehoux"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95710"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-819" lat="18.5497" lon="-72.3473">
       <tag k="health_facility:commune_id" v="11"/>
@@ -225,9 +225,9 @@
       <tag k="name" v="Croix Rouge Haitienne"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95711"/>
-      <tag k="source" v="Ushahidi"/>
+      <tag k="source:health_facility" v="Ushahidi"/>
     </node>
     <node id="-820" lat="18.54969" lon="-72.34728">
       <tag k="health_facility:commune_id" v="11"/>
@@ -237,9 +237,9 @@
       <tag k="name" v="Medical Center near Avenue Pie XI"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95712"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-821" lat="18.528" lon="-72.349">
       <tag k="health_facility:commune_id" v="11"/>
@@ -249,9 +249,9 @@
       <tag k="name" v="CLINIQUE COMMUNAUTAIRE DE MARTISSANT"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95713"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-822" lat="18.5604" lon="-72.3419">
       <tag k="health_facility:commune_id" v="11"/>
@@ -261,9 +261,9 @@
       <tag k="name" v="Medical Center"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95714"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-823" lat="18.5605" lon="-72.3413">
       <tag k="health_facility:commune_id" v="11"/>
@@ -273,9 +273,9 @@
       <tag k="name" v="Centre D&apos;Hygience de la Saline"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95715"/>
-      <tag k="source" v="Ushahidi"/>
+      <tag k="source:health_facility" v="Ushahidi"/>
     </node>
     <node id="-824" lat="18.56023" lon="-72.34035">
       <tag k="health_facility:commune_id" v="11"/>
@@ -285,9 +285,9 @@
       <tag k="name" v="Medical Center near Boulevard la Saline"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95716"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-825" lat="18.517" lon="-72.3">
       <tag k="health_facility:commune_id" v="11"/>
@@ -297,9 +297,9 @@
       <tag k="name" v="CENTRE DE SANTE DE MORNE HERCULE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95717"/>
-      <tag k="source" v="GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="GEONAMES, WHO"/>
     </node>
     <node id="-826" lat="18.513" lon="-72.286">
       <tag k="health_facility:commune_id" v="14"/>
@@ -309,9 +309,9 @@
       <tag k="name" v="CENTRE LAKAY DE PETION-VILLE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95718"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-827" lat="18.513" lon="-72.285">
       <tag k="health_facility:commune_id" v="14"/>
@@ -323,7 +323,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95719"/>
-      <tag k="source" v="PEPFAR"/>
+      <tag k="source:health_facility" v="PEPFAR"/>
     </node>
     <node id="-828" lat="18.5171" lon="-72.289">
       <tag k="health_facility:commune_id" v="14"/>
@@ -333,9 +333,9 @@
       <tag k="name" v="Centre de Sante Eliazer Germain"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95720"/>
-      <tag k="source" v="Ushahidi"/>
+      <tag k="source:health_facility" v="Ushahidi"/>
     </node>
     <node id="-829" lat="18.5173" lon="-72.28882">
       <tag k="health_facility:commune_id" v="14"/>
@@ -345,9 +345,9 @@
       <tag k="name" v="Medical Center near Avenue Pan-Americaine"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95721"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-830" lat="18.5814" lon="-72.3271">
       <tag k="health_facility:commune_id" v="12"/>
@@ -359,7 +359,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95722"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-831" lat="18.574" lon="-72.3283">
       <tag k="health_facility:commune_id" v="12"/>
@@ -371,7 +371,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95723"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-832" lat="18.5735" lon="-72.3287">
       <tag k="health_facility:commune_id" v="12"/>
@@ -383,7 +383,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95724"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-833" lat="18.5698" lon="-72.3232">
       <tag k="health_facility:commune_id" v="12"/>
@@ -395,7 +395,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95725"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-834" lat="18.58138" lon="-72.32724">
       <tag k="health_facility:commune_id" v="12"/>
@@ -405,9 +405,9 @@
       <tag k="name" v="Medical Center near R9"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95726"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-835" lat="18.5564" lon="-72.3247">
       <tag k="health_facility:commune_id" v="12"/>
@@ -419,7 +419,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95727"/>
-      <tag k="source" v="UN/MINUSTAH"/>
+      <tag k="source:health_facility" v="UN/MINUSTAH"/>
     </node>
     <node id="-836" lat="18.59521" lon="-72.31475">
       <tag k="health_facility:commune_id" v="12"/>
@@ -429,9 +429,9 @@
       <tag k="name" v="Medical Center near Blanchard"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95728"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-837" lat="18.571" lon="-72.279">
       <tag k="health_facility:commune_id" v="12"/>
@@ -441,9 +441,9 @@
       <tag k="name" v="C /S PETIT PLACE CAZEAU"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95729"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-838" lat="18.557415" lon="-72.559032">
       <tag k="health_facility:commune_id" v="21"/>
@@ -455,7 +455,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95730"/>
-      <tag k="source" v="Sahana Foundation"/>
+      <tag k="source:health_facility" v="Sahana Foundation"/>
     </node>
     <node id="-839" lat="18.538" lon="-72.61">
       <tag k="health_facility:commune_id" v="21"/>
@@ -465,9 +465,9 @@
       <tag k="name" v="CENTRE LAKAY DE MARIANI"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95731"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-840" lat="18.511" lon="-72.634">
       <tag k="health_facility:commune_id" v="21"/>
@@ -477,9 +477,9 @@
       <tag k="name" v="CENTRE JEUNES DE LEOGANE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95732"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-841" lat="18.511" lon="-72.634">
       <tag k="health_facility:commune_id" v="21"/>
@@ -491,7 +491,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95733"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-842" lat="18.517" lon="-72.601">
       <tag k="health_facility:commune_id" v="21"/>
@@ -503,7 +503,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95734"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-843" lat="18.388" lon="-72.617">
       <tag k="health_facility:commune_id" v="21"/>
@@ -513,9 +513,9 @@
       <tag k="name" v="FOSREF J. DE JEREMIE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95735"/>
-      <tag k="source" v="GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="GEONAMES, WHO"/>
     </node>
     <node id="-844" lat="18.333" lon="-72.733">
       <tag k="health_facility:commune_id" v="23"/>
@@ -525,9 +525,9 @@
       <tag k="name" v="CENTRE DE SANTE DE RABOTEAU"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95736"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-845" lat="18.417" lon="-72.833">
       <tag k="health_facility:commune_id" v="22"/>
@@ -537,9 +537,9 @@
       <tag k="name" v="CLINIQUE MEDICO-CHIRURGICALE DUGUE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95737"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-846" lat="18.6" lon="-72.167">
       <tag k="health_facility:commune_id" v="31"/>
@@ -549,9 +549,9 @@
       <tag k="name" v="CENTRE JEUNES PLAINE DU CUL DE SAC"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95738"/>
-      <tag k="source" v="GEONAMES"/>
+      <tag k="source:health_facility" v="GEONAMES"/>
     </node>
     <node id="-847" lat="18.545" lon="-72.203">
       <tag k="health_facility:commune_id" v="31"/>
@@ -561,9 +561,9 @@
       <tag k="name" v="CLINIQUE COMMUNAUTAIRE DE DELMAS 75"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95739"/>
-      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="PEPFAR, GEONAMES, WHO"/>
     </node>
     <node id="-848" lat="18.487" lon="-72.181">
       <tag k="health_facility:commune_id" v="31"/>
@@ -575,7 +575,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95740"/>
-      <tag k="source" v="PEPFAR"/>
+      <tag k="source:health_facility" v="PEPFAR"/>
     </node>
     <node id="-849" lat="18.467" lon="-71.983">
       <tag k="health_facility:commune_id" v="33"/>
@@ -585,9 +585,9 @@
       <tag k="name" v="CENTRE DE SANTE STE-ELISABETH"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95741"/>
-      <tag k="source" v="GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="GEONAMES, WHO"/>
     </node>
     <node id="-850" lat="18.917" lon="-72.583">
       <tag k="health_facility:commune_id" v="41"/>
@@ -599,7 +599,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95742"/>
-      <tag k="source" v="GEONAMES, WHO"/>
+      <tag k="source:health_facility" v="GEONAMES, WHO"/>
     </node>
   </create>
 </osmChange>

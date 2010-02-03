@@ -9,9 +9,9 @@
       <tag k="name" v="DISPENSAIRE DE MAMONT"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95546"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-652" lat="19.2898146937" lon="-72.3537368763">
       <tag k="health_facility:commune_id" v="51"/>
@@ -21,10 +21,10 @@
       <tag k="name" v="DISPENSAIRE GADE BAPTISTE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95547"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-653" lat="19.418205713" lon="-72.3777796991">
       <tag k="health_facility:commune_id" v="51"/>
@@ -34,9 +34,9 @@
       <tag k="name" v="DISPENSAIRE LIVING HOPE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95548"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-654" lat="19.4512932062" lon="-72.2804963729">
       <tag k="health_facility:commune_id" v="51"/>
@@ -46,10 +46,10 @@
       <tag k="name" v="DISPENSAIRE DE LALOMAS"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95549"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-655" lat="19.3048293648" lon="-72.6100470504">
       <tag k="health_facility:commune_id" v="13"/>
@@ -59,10 +59,10 @@
       <tag k="name" v="CENTRE DE SANTE DE L&apos;ESTERE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95550"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-656" lat="19.5988616058" lon="-72.7807495328">
       <tag k="health_facility:commune_id" v="22"/>
@@ -72,10 +72,10 @@
       <tag k="name" v="CENTRE DE SANTE TERRE - NEUVE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95551"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-657" lat="19.7314122099" lon="-72.7274952835">
       <tag k="health_facility:commune_id" v="21"/>
@@ -85,10 +85,10 @@
       <tag k="name" v="DISPENSAIRE DAVID"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95552"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-658" lat="19.6323605488" lon="-73.0546555998">
       <tag k="health_facility:commune_id" v="23"/>
@@ -98,10 +98,10 @@
       <tag k="name" v="CENTRE DE SANTE D&apos;ANSE ROUGE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95553"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-659" lat="19.6379695216" lon="-72.9151314568">
       <tag k="health_facility:commune_id" v="23"/>
@@ -111,10 +111,10 @@
       <tag k="name" v="DISPENSAIRE ATREI"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="COMMUNAUTAIRE"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="COMMUNAUTAIRE"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95554"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-660" lat="19.6459044779" lon="-72.7198269787">
       <tag k="health_facility:commune_id" v="21"/>
@@ -124,9 +124,9 @@
       <tag k="name" v="DISPENSAIRE MOULIN"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95555"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-661" lat="19.7715109361" lon="-72.6726632471">
       <tag k="health_facility:commune_id" v="21"/>
@@ -136,9 +136,9 @@
       <tag k="name" v="DISPENSAIRE DE VERNEUIL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95556"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-662" lat="19.762234276" lon="-72.6580024007">
       <tag k="health_facility:commune_id" v="21"/>
@@ -148,9 +148,9 @@
       <tag k="name" v="DISPENSAIRE DE TREUIL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95557"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-663" lat="19.669785994" lon="-72.6840131181">
       <tag k="health_facility:commune_id" v="21"/>
@@ -160,9 +160,9 @@
       <tag k="name" v="CENTRE DE SANTE SOS FRANCE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95558"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-664" lat="19.7860926817" lon="-72.7335231281">
       <tag k="health_facility:commune_id" v="21"/>
@@ -172,10 +172,10 @@
       <tag k="name" v="DISPENSAIRE PENDU"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="MSPP"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="MSPP"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95559"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-665" lat="19.6643452788" lon="-72.6977625659">
       <tag k="health_facility:commune_id" v="21"/>
@@ -185,9 +185,9 @@
       <tag k="name" v="DISPENSAIRE RIVIERE MANCELLE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95560"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-666" lat="19.6708655351" lon="-73.0246209807">
       <tag k="health_facility:commune_id" v="23"/>
@@ -197,10 +197,10 @@
       <tag k="name" v="DISPENSAIRE TENTE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="COMMUNAUTAIRE"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility:organisation" v="COMMUNAUTAIRE"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95561"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-667" lat="19.3458618892" lon="-72.5721058404">
       <tag k="health_facility:commune_id" v="13"/>
@@ -210,9 +210,9 @@
       <tag k="name" v="DISPENSAIRE LA CROIX MISSIONNAIRE DE PERISSE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95562"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-668" lat="19.2319427991" lon="-72.5321327653">
       <tag k="health_facility:commune_id" v="41"/>
@@ -222,9 +222,9 @@
       <tag k="name" v="DISPENSAIRE DE NIEL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="95563"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-669" lat="18.2349693151" lon="-72.5268212174">
       <tag k="health_facility:commune_id" v="11"/>
@@ -234,10 +234,10 @@
       <tag k="name" v="VDH JACMEL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="organization" v="Jounel Decembre"/>
+      <tag k="health_facility:organisation" v="Jounel Decembre"/>
       <tag k="FIXME" v="unknown_health_facility"/>
       <tag k="pcode" v="95564"/>
-      <tag k="source" v="2005 MSPP database with geocodes"/>
+      <tag k="source:health_facility" v="2005 MSPP database with geocodes"/>
     </node>
     <node id="-670" lat="19.753388" lon="-72.206833">
       <tag k="health_facility:commune_id" v="11"/>
@@ -249,7 +249,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95565"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-671" lat="19.750611" lon="-72.199611">
       <tag k="health_facility:commune_id" v="11"/>
@@ -259,9 +259,9 @@
       <tag k="name" v="CAP HAITIEN CLINIC MILITARY"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95566"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-672" lat="19.583333" lon="-72.183333">
       <tag k="health_facility:commune_id" v="31"/>
@@ -273,7 +273,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95567"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-673" lat="19.767277" lon="-72.216277">
       <tag k="health_facility:commune_id" v="11"/>
@@ -285,7 +285,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95568"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-674" lat="18.5" lon="-72.0">
       <tag k="health_facility:commune_id" v="33"/>
@@ -297,7 +297,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95569"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-675" lat="19.15" lon="-72.016666">
       <tag k="health_facility:commune_id" v="11"/>
@@ -312,7 +312,7 @@
       <tag k="operational_status" v="open"/>
       <tag k="operational_status" v="closed"/>
       <tag k="operational_status" v="unspecified"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-676" lat="18.833333" lon="-72.1">
       <tag k="health_facility:commune_id" v="21"/>
@@ -322,9 +322,9 @@
       <tag k="name" v="MIREBALAIS CLINIC PROFAMIL FAMILY PLAN"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95571"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-677" lat="18.25" lon="-71.85">
       <tag k="health_facility:commune_id" v="33"/>
@@ -336,7 +336,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95572"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-678" lat="18.555277" lon="-72.338333">
       <tag k="health_facility:commune_id" v="11"/>
@@ -348,7 +348,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95573"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-679" lat="18.564444" lon="-72.335833">
       <tag k="health_facility:commune_id" v="12"/>
@@ -360,7 +360,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95574"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-680" lat="19.7" lon="-72.6">
       <tag k="health_facility:commune_id" v="72"/>
@@ -372,7 +372,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95575"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-681" lat="18.644722" lon="-74.117777">
       <tag k="health_facility:commune_id" v="11"/>
@@ -384,7 +384,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95576"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-682" lat="18.536111" lon="-72.348055">
       <tag k="health_facility:commune_id" v="11"/>
@@ -394,10 +394,10 @@
       <tag k="name" v="PORT AU PRINCE CLINIC CENTRE DE SANTE DU PORTAIL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="95577"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-683" lat="19.783333" lon="-72.8">
       <tag k="health_facility:commune_id" v="13"/>
@@ -409,7 +409,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95578"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-684" lat="19.15" lon="-72.016666">
       <tag k="health_facility:commune_id" v="11"/>
@@ -419,9 +419,9 @@
       <tag k="name" v="HINCHE CLINIC CATHOLIC CLINIC"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95579"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-685" lat="19.55" lon="-71.733333">
       <tag k="health_facility:commune_id" v="21"/>
@@ -431,9 +431,9 @@
       <tag k="name" v="OUANAMINTHE CLINIC SOCIAL MEDICAL CENTER"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95580"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-686" lat="18.55018" lon="-72.310213">
       <tag k="health_facility:commune_id" v="12"/>
@@ -445,7 +445,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95581"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-687" lat="18.5168300185" lon="-72.2882555931">
       <tag k="health_facility:commune_id" v="14"/>
@@ -455,9 +455,9 @@
       <tag k="name" v="PORT AU PRINCE CLINIC CENTRE DE SANTE ELIAZER"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95582"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-688" lat="19.616666" lon="-72.216666">
       <tag k="health_facility:commune_id" v="23"/>
@@ -469,7 +469,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95583"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-689" lat="18.524166" lon="-72.2725">
       <tag k="health_facility:commune_id" v="14"/>
@@ -481,7 +481,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95584"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-690" lat="19.083333" lon="-71.833333">
       <tag k="health_facility:commune_id" v="42"/>
@@ -491,9 +491,9 @@
       <tag k="name" v="THOMASSIQUE CLINIC DISPENSAIRE SAINT THOMAS"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95585"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-691" lat="19.166666" lon="-71.783333">
       <tag k="health_facility:commune_id" v="41"/>
@@ -505,7 +505,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95586"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-692" lat="18.833333" lon="-72.1">
       <tag k="health_facility:commune_id" v="21"/>
@@ -517,7 +517,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95587"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-693" lat="19.4" lon="-71.783333">
       <tag k="health_facility:commune_id" v="31"/>
@@ -527,9 +527,9 @@
       <tag k="name" v="MONT ORGANISE CLINIC SOCIAL MEDICAL CENTER"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95588"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-694" lat="19.0" lon="-72.733333">
       <tag k="health_facility:commune_id" v="31"/>
@@ -539,9 +539,9 @@
       <tag k="name" v="PIERRE CLINIC PAYDEN HEALTH CENTER"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95589"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-695" lat="19.762697" lon="-72.206325">
       <tag k="health_facility:commune_id" v="11"/>
@@ -553,7 +553,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="31100"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-696" lat="19.666666" lon="-72.55">
       <tag k="health_facility:commune_id" v="72"/>
@@ -565,7 +565,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95590"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-697" lat="18.533333" lon="-72.316666">
       <tag k="health_facility:commune_id" v="11"/>
@@ -577,7 +577,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95591"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-698" lat="18.549" lon="-72.339333">
       <tag k="health_facility:commune_id" v="11"/>
@@ -587,9 +587,9 @@
       <tag k="name" v="PORT AU PRINCE CLINIC CENTRE DE SANTE DE CATHEDRALE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95592"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-699" lat="18.559444" lon="-72.301666">
       <tag k="health_facility:commune_id" v="12"/>
@@ -601,7 +601,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95593"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-700" lat="18.533333" lon="-73.516666">
       <tag k="health_facility:commune_id" v="53"/>
@@ -613,7 +613,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95594"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
   </create>
 </osmChange>

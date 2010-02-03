@@ -1,19 +1,19 @@
 point,NomInstitu,,name,-
-point,Categorie,C/S,amenity,clinic
-point,Categorie,CAL,amenity,clinic
+point,Categorie,C/S,health_facility_type,health_center
+point,Categorie,CAL,health_facility_type,health_center
 point,Categories,CAL,bed,yes
-point,Categorie,CSL,amenity,clinic
+point,Categorie,CSL,health_facility_type,health_center
 point,Categorie,CSL,bed,no
-point,Categorie,DISP,amenity,pharmacy
-point,Categorie,F Hospital,amenity,field_hospital
+point,Categorie,DISP,health_facility_type,dispensary
+point,Categorie,F Hospital,health_facility_type,field_hospital
 point,Categorie,HOP,amenity,hospital
 point,Categorie,HOPSpec,amenity,hospital
 point,Categorie,HOPSpec,hospital_specialization,FIXME
 point,Categorie,Other,FIXME,unknown_health_facility
 point,Categorie,Unknown,FIXME,unknown_health_facility
-point,Source,,source,-
+point,Source,,source:health_facility,-
 point,PCode,,pcode,-
-point,Oorganisat,,organization,-
+point,Oorganisat,,health_facility:organisation,-
 point,HealthC_ID,,health_facility:paho_id,-
 point,Commune,,health_facility:commune,-
 point,CommuneId,,health_facility:commune_id,-

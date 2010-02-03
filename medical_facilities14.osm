@@ -9,9 +9,9 @@
       <tag k="name" v="RABOTEAU CLINIC SOCIAL MEDICAL CENTER"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95595"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-702" lat="18.85" lon="-71.766666">
       <tag k="health_facility:commune_id" v="32"/>
@@ -23,7 +23,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95596"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-703" lat="18.516666" lon="-72.633333">
       <tag k="health_facility:commune_id" v="21"/>
@@ -35,7 +35,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95597"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-704" lat="19.85" lon="-72.533333">
       <tag k="health_facility:commune_id" v="51"/>
@@ -47,7 +47,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95598"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-705" lat="19.7" lon="-72.4">
       <tag k="health_facility:commune_id" v="61"/>
@@ -59,7 +59,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95599"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-706" lat="19.933333" lon="-72.716666">
       <tag k="health_facility:commune_id" v="21"/>
@@ -71,7 +71,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95600"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-707" lat="18.433333" lon="-72.866666">
       <tag k="health_facility:commune_id" v="22"/>
@@ -83,7 +83,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95601"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-708" lat="19.7" lon="-72.4">
       <tag k="health_facility:commune_id" v="61"/>
@@ -95,7 +95,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95602"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-709" lat="18.537222" lon="-72.345555">
       <tag k="health_facility:commune_id" v="11"/>
@@ -107,7 +107,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95603"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-710" lat="19.45" lon="-72.683333">
       <tag k="health_facility:commune_id" v="11"/>
@@ -119,7 +119,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95604"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-711" lat="18.576666" lon="-72.226944">
       <tag k="health_facility:commune_id" v="11"/>
@@ -131,7 +131,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95605"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-712" lat="18.769444" lon="-72.5125">
       <tag k="health_facility:commune_id" v="41"/>
@@ -143,7 +143,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95606"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-713" lat="19.945055" lon="-72.83575">
       <tag k="health_facility:commune_id" v="11"/>
@@ -155,7 +155,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95607"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-714" lat="18.238055" lon="-72.542222">
       <tag k="health_facility:commune_id" v="11"/>
@@ -167,7 +167,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95608"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-715" lat="18.238055" lon="-72.538888">
       <tag k="health_facility:commune_id" v="11"/>
@@ -177,9 +177,9 @@
       <tag k="name" v="JACMEL CLINIC ASILE COMMUNAL"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95609"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-716" lat="18.450555" lon="-72.287777">
       <tag k="health_facility:commune_id" v="11"/>
@@ -191,7 +191,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="11503"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-717" lat="19.633333" lon="-73.05">
       <tag k="health_facility:commune_id" v="23"/>
@@ -203,7 +203,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95610"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-718" lat="18.333333" lon="-73.2">
       <tag k="health_facility:commune_id" v="31"/>
@@ -215,7 +215,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95611"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-719" lat="18.544722" lon="-72.302777">
       <tag k="health_facility:commune_id" v="12"/>
@@ -225,9 +225,9 @@
       <tag k="name" v="DELMAS CLINIC MULTIMED 2"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="95612"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-720" lat="18.192777" lon="-73.751388">
       <tag k="health_facility:commune_id" v="11"/>
@@ -239,7 +239,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95613"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-721" lat="18.643055" lon="-74.116666">
       <tag k="health_facility:commune_id" v="11"/>
@@ -251,7 +251,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95614"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-722" lat="20.066666" lon="-72.816666">
       <tag k="health_facility:commune_id" v="12"/>
@@ -263,7 +263,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95615"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-723" lat="18.2" lon="-73.75">
       <tag k="health_facility:commune_id" v="11"/>
@@ -275,7 +275,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95616"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-724" lat="19.45" lon="-72.683333">
       <tag k="health_facility:commune_id" v="11"/>
@@ -287,7 +287,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95617"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-725" lat="19.45" lon="-72.683333">
       <tag k="health_facility:commune_id" v="11"/>
@@ -299,7 +299,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95618"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-726" lat="20.066666" lon="-72.816666">
       <tag k="health_facility:commune_id" v="12"/>
@@ -311,7 +311,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95619"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-727" lat="18.483333" lon="-73.966666">
       <tag k="health_facility:commune_id" v="33"/>
@@ -323,7 +323,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95620"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-728" lat="18.434" lon="-73.082972">
       <tag k="health_facility:commune_id" v="41"/>
@@ -335,7 +335,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95621"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-729" lat="18.197777" lon="-73.745833">
       <tag k="health_facility:commune_id" v="11"/>
@@ -347,7 +347,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95622"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-730" lat="18.566666" lon="-74.416666">
       <tag k="health_facility:commune_id" v="22"/>
@@ -359,7 +359,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95623"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-731" lat="18.516666" lon="-73.35">
       <tag k="health_facility:commune_id" v="51"/>
@@ -371,7 +371,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95624"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-732" lat="19.95" lon="-72.833333">
       <tag k="health_facility:commune_id" v="11"/>
@@ -383,7 +383,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95625"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-733" lat="18.567222" lon="-73.892222">
       <tag k="health_facility:commune_id" v="31"/>
@@ -395,7 +395,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95626"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-734" lat="18.5535204416" lon="-72.3075951942">
       <tag k="health_facility:commune_id" v="12"/>
@@ -410,7 +410,7 @@
       <tag k="operational_status" v="open"/>
       <tag k="operational_status" v="closed"/>
       <tag k="operational_status" v="unspecified"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-735" lat="19.333333" lon="-72.116666">
       <tag k="health_facility:commune_id" v="44"/>
@@ -422,7 +422,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95628"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-736" lat="18.833333" lon="-72.866666">
       <tag k="health_facility:commune_id" v="51"/>
@@ -434,7 +434,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95629"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-737" lat="19.074444" lon="-72.502777">
       <tag k="health_facility:commune_id" v="32"/>
@@ -446,7 +446,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95630"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-738" lat="18.65" lon="-74.116666">
       <tag k="health_facility:commune_id" v="11"/>
@@ -458,7 +458,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95631"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-739" lat="18.442638" lon="-73.095222">
       <tag k="health_facility:commune_id" v="41"/>
@@ -473,7 +473,7 @@
       <tag k="operational_status" v="open"/>
       <tag k="operational_status" v="closed"/>
       <tag k="operational_status" v="unspecified"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-740" lat="18.45" lon="-73.1">
       <tag k="health_facility:commune_id" v="41"/>
@@ -485,7 +485,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95633"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-741" lat="19.052119" lon="-72.464229">
       <tag k="health_facility:commune_id" v="32"/>
@@ -497,7 +497,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95634"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-742" lat="19.05" lon="-72.466666">
       <tag k="health_facility:commune_id" v="32"/>
@@ -509,7 +509,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95635"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-743" lat="19.137777" lon="-72.014444">
       <tag k="health_facility:commune_id" v="11"/>
@@ -521,7 +521,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95636"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-744" lat="18.866666" lon="-71.8">
       <tag k="health_facility:commune_id" v="32"/>
@@ -533,7 +533,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95637"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-745" lat="18.518888" lon="-72.291666">
       <tag k="health_facility:commune_id" v="14"/>
@@ -545,7 +545,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95638"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-746" lat="18.539444" lon="-72.339444">
       <tag k="health_facility:commune_id" v="11"/>
@@ -560,7 +560,7 @@
       <tag k="operational_status" v="open"/>
       <tag k="operational_status" v="closed"/>
       <tag k="operational_status" v="unspecified"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-747" lat="18.5411248231" lon="-72.3386049645">
       <tag k="health_facility:commune_id" v="11"/>
@@ -575,7 +575,7 @@
       <tag k="operational_status" v="open"/>
       <tag k="operational_status" v="closed"/>
       <tag k="operational_status" v="unspecified"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-748" lat="18.526388" lon="-72.343888">
       <tag k="health_facility:commune_id" v="11"/>
@@ -587,7 +587,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95641"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-749" lat="19.950611" lon="-72.832972">
       <tag k="health_facility:commune_id" v="11"/>
@@ -599,7 +599,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95642"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
     <node id="-750" lat="18.533333" lon="-72.266666">
       <tag k="health_facility:commune_id" v="12"/>
@@ -611,7 +611,7 @@
       <tag k="attribute_source_type" v="PAHO"/>
       <tag k="amenity" v="hospital"/>
       <tag k="pcode" v="95643"/>
-      <tag k="source" v="HHS_20100120"/>
+      <tag k="source:health_facility" v="HHS_20100120"/>
     </node>
   </create>
 </osmChange>

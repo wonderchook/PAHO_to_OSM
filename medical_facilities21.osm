@@ -9,10 +9,10 @@
       <tag k="name" v="C/S Lespwa"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13115"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1052" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -22,10 +22,10 @@
       <tag k="name" v="CSE"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13116"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1053" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -35,10 +35,10 @@
       <tag k="name" v="FBSA/CMS"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13117"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1054" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -48,10 +48,10 @@
       <tag k="name" v="C/S Saint-esprit"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13118"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1055" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -61,10 +61,10 @@
       <tag k="name" v="SIF"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13119"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1056" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -74,10 +74,10 @@
       <tag k="name" v="Kay Lavi"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13120"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1057" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -87,10 +87,10 @@
       <tag k="name" v="Ag/s"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="13121"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1058" lat="18.5394746275" lon="-72.1839336485">
       <tag k="health_facility:commune_id" v="31"/>
@@ -100,10 +100,10 @@
       <tag k="name" v="C/S Maison"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="0"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1059" lat="18.2627057507" lon="-72.7110152311">
       <tag k="health_facility:commune_id" v="14"/>
@@ -113,9 +113,9 @@
       <tag k="name" v="Dispensaire Morne a Br&#251;ler"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="21402"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1060" lat="18.2627057507" lon="-72.7110152311">
       <tag k="health_facility:commune_id" v="14"/>
@@ -125,9 +125,9 @@
       <tag k="name" v="Dispensaire Amalia"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="21403"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1061" lat="18.2964087563" lon="-72.5240771987">
       <tag k="health_facility:commune_id" v="11"/>
@@ -137,9 +137,9 @@
       <tag k="name" v="Dispensaire La Montagne"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="21104"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1062" lat="18.2964087563" lon="-72.5240771987">
       <tag k="health_facility:commune_id" v="11"/>
@@ -149,9 +149,9 @@
       <tag k="name" v="Dispensaire Bellevue la Montagne"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="21109"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1063" lat="18.2964087563" lon="-72.5240771987">
       <tag k="health_facility:commune_id" v="11"/>
@@ -161,9 +161,9 @@
       <tag k="name" v="Centre a lits Christian Martinez"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="21112"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1064" lat="18.2614283555" lon="-72.4026410414">
       <tag k="health_facility:commune_id" v="13"/>
@@ -173,10 +173,10 @@
       <tag k="name" v="Centre de sante Emmanuel Baptiste"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="21302"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1065" lat="18.2872337991" lon="-72.296595644">
       <tag k="health_facility:commune_id" v="12"/>
@@ -186,9 +186,9 @@
       <tag k="name" v="Dispensaire Seguin"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="21203"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1066" lat="18.2872337991" lon="-72.296595644">
       <tag k="health_facility:commune_id" v="12"/>
@@ -198,9 +198,9 @@
       <tag k="name" v="Dispensaire Grande Riviere"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="21204"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1067" lat="18.2124870891" lon="-72.7888377829">
       <tag k="health_facility:commune_id" v="21"/>
@@ -210,9 +210,9 @@
       <tag k="name" v="Dispensaire Saurel"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22102"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1068" lat="18.2124870891" lon="-72.7888377829">
       <tag k="health_facility:commune_id" v="21"/>
@@ -222,9 +222,9 @@
       <tag k="name" v="Dispensaire Bahot"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22103"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1069" lat="18.2124870891" lon="-72.7888377829">
       <tag k="health_facility:commune_id" v="21"/>
@@ -234,9 +234,9 @@
       <tag k="name" v="Dispensaire Chomeille"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22104"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1070" lat="18.2124870891" lon="-72.7888377829">
       <tag k="health_facility:commune_id" v="21"/>
@@ -246,9 +246,9 @@
       <tag k="name" v="Dispensaire Br&#233;silienne"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22105"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1071" lat="18.2124870891" lon="-72.7888377829">
       <tag k="health_facility:commune_id" v="21"/>
@@ -258,9 +258,9 @@
       <tag k="name" v="Dispensaire Orangers"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22106"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1072" lat="18.2124870891" lon="-72.7888377829">
       <tag k="health_facility:commune_id" v="21"/>
@@ -270,9 +270,9 @@
       <tag k="name" v="Dispensaire Bras gauche"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22107"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1073" lat="18.231493994" lon="-72.948773653">
       <tag k="health_facility:commune_id" v="22"/>
@@ -282,9 +282,9 @@
       <tag k="name" v="Dispensaire Saint Joseph"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="22202"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1074" lat="18.2781943622" lon="-72.0860463466">
       <tag k="health_facility:commune_id" v="31"/>
@@ -294,9 +294,9 @@
       <tag k="name" v="Dispensaire Ricot"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="23103"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1075" lat="18.2154644194" lon="-71.8530799734">
       <tag k="health_facility:commune_id" v="33"/>
@@ -306,9 +306,9 @@
       <tag k="name" v="Dispensaire Bleck"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="23302"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1076" lat="18.2154644194" lon="-71.8530799734">
       <tag k="health_facility:commune_id" v="33"/>
@@ -318,9 +318,9 @@
       <tag k="name" v="Dispensaire Mare Blanche"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="23304"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1077" lat="18.2154644194" lon="-71.8530799734">
       <tag k="health_facility:commune_id" v="33"/>
@@ -330,10 +330,10 @@
       <tag k="name" v="CSL Sacr&#233; Coeur"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="23305"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1078" lat="19.749253434" lon="-72.2187677459">
       <tag k="health_facility:commune_id" v="11"/>
@@ -343,9 +343,9 @@
       <tag k="name" v="Dispensaire de Labadie"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="31104"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1079" lat="19.749253434" lon="-72.2187677459">
       <tag k="health_facility:commune_id" v="11"/>
@@ -355,9 +355,9 @@
       <tag k="name" v="Dispensaire Solano SA, Labadie"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="31106"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1080" lat="19.684940505" lon="-72.1689452767">
       <tag k="health_facility:commune_id" v="12"/>
@@ -367,9 +367,9 @@
       <tag k="name" v="Disp de Morne Pel&#233;"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="31203"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1081" lat="19.6534189172" lon="-72.2179366812">
       <tag k="health_facility:commune_id" v="23"/>
@@ -379,9 +379,9 @@
       <tag k="name" v="Disp St Yves de Thibault"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="32304"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1082" lat="19.680475152" lon="-72.268902377">
       <tag k="health_facility:commune_id" v="22"/>
@@ -391,9 +391,9 @@
       <tag k="name" v="Disp de Paine du Nord"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="32201"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1083" lat="19.6437555101" lon="-72.333441886">
       <tag k="health_facility:commune_id" v="21"/>
@@ -403,10 +403,10 @@
       <tag k="name" v="Nativit&#233;"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="32101"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1084" lat="19.6437555101" lon="-72.333441886">
       <tag k="health_facility:commune_id" v="21"/>
@@ -416,9 +416,9 @@
       <tag k="name" v="Grison Garde (NF)"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="32103"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1085" lat="19.6437555101" lon="-72.333441886">
       <tag k="health_facility:commune_id" v="21"/>
@@ -428,9 +428,9 @@
       <tag k="name" v="Disp de Pilatre"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="32104"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1086" lat="19.6437555101" lon="-72.333441886">
       <tag k="health_facility:commune_id" v="21"/>
@@ -440,9 +440,9 @@
       <tag k="name" v="Disp de Soufri&#232;re"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="32107"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1087" lat="19.350713177" lon="-72.0219335873">
       <tag k="health_facility:commune_id" v="45"/>
@@ -452,9 +452,9 @@
       <tag k="name" v="Dispensaire Saint Joseph"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="34502"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1088" lat="19.3993732907" lon="-72.0575757397">
       <tag k="health_facility:commune_id" v="43"/>
@@ -464,9 +464,9 @@
       <tag k="name" v="Palmary"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="34302"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1089" lat="19.3993732907" lon="-72.0575757397">
       <tag k="health_facility:commune_id" v="43"/>
@@ -476,9 +476,9 @@
       <tag k="name" v="Disp Catholique"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="34303"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1090" lat="19.7539711097" lon="-72.4639003805">
       <tag k="health_facility:commune_id" v="52"/>
@@ -488,10 +488,10 @@
       <tag k="name" v="CSL de Port Margot"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="bed" v="no"/>
       <tag k="pcode" v="35201"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1091" lat="19.6578750333" lon="-72.4093279028">
       <tag k="health_facility:commune_id" v="61"/>
@@ -501,9 +501,9 @@
       <tag k="name" v="CAL St Jean de Limbe"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="36101"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1092" lat="19.7602785453" lon="-72.3953161698">
       <tag k="health_facility:commune_id" v="62"/>
@@ -513,9 +513,9 @@
       <tag k="name" v="Disp de Bas Limb&#233;"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="36201"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1093" lat="19.6578750333" lon="-72.4093279028">
       <tag k="health_facility:commune_id" v="61"/>
@@ -525,9 +525,9 @@
       <tag k="name" v="Hop Bon Samaritain"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="36102"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1094" lat="19.6578750333" lon="-72.4093279028">
       <tag k="health_facility:commune_id" v="61"/>
@@ -537,9 +537,9 @@
       <tag k="name" v="Disp de Camp Coq"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="36103"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1095" lat="19.6578750333" lon="-72.4093279028">
       <tag k="health_facility:commune_id" v="61"/>
@@ -549,9 +549,9 @@
       <tag k="name" v="Disp Haut Limbe"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="36104"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1096" lat="19.7539711097" lon="-72.4639003805">
       <tag k="health_facility:commune_id" v="52"/>
@@ -561,9 +561,9 @@
       <tag k="name" v="Disp Cath de Pt Bourg"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="35206"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1097" lat="19.6927665386" lon="-72.552937555">
       <tag k="health_facility:commune_id" v="72"/>
@@ -573,9 +573,9 @@
       <tag k="name" v="CAL de Pilate"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="37201"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1098" lat="19.5945197627" lon="-72.4789016805">
       <tag k="health_facility:commune_id" v="71"/>
@@ -585,9 +585,9 @@
       <tag k="name" v="CMP Progressio"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="clinic"/>
+      <tag k="health_facility_type" v="health_center"/>
       <tag k="pcode" v="37101"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1099" lat="19.5945197627" lon="-72.4789016805">
       <tag k="health_facility:commune_id" v="71"/>
@@ -597,9 +597,9 @@
       <tag k="name" v="Disp de Gobert"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="37102"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
     <node id="-1100" lat="19.5945197627" lon="-72.4789016805">
       <tag k="health_facility:commune_id" v="71"/>
@@ -609,9 +609,9 @@
       <tag k="name" v="Disp La Trouble"/>
       <tag k="geometry_source_type" v="PAHO"/>
       <tag k="attribute_source_type" v="PAHO"/>
-      <tag k="amenity" v="pharmacy"/>
+      <tag k="health_facility_type" v="dispensary"/>
       <tag k="pcode" v="37103"/>
-      <tag k="source" v="2009_MSPP_database"/>
+      <tag k="source:health_facility" v="2009_MSPP_database"/>
     </node>
   </create>
 </osmChange>
