@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-851" lat="18.928" lon="-72.593">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="ARCAHAIE"/>
+      <tag k="health_facility:paho_id" v="1410155"/>
+      <tag k="name" v="SADA - FONDS BAPTISTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95743"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-852" lat="18.733" lon="-72.433">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="CABARET"/>
+      <tag k="health_facility:paho_id" v="1429001"/>
+      <tag k="name" v="SADA - BELLANGER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95744"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-853" lat="18.717" lon="-72.367">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="CABARET"/>
+      <tag k="health_facility:paho_id" v="1429002"/>
+      <tag k="name" v="SADA - SOURCE MATELAS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95745"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-854" lat="18.7" lon="-71.9167">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="CORNILLON / GRAND-BOIS"/>
+      <tag k="health_facility:paho_id" v="1349001"/>
+      <tag k="name" v="HAS PLASSAC UF 8"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95746"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-855" lat="18.825" lon="-73.037">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="POINTE A RAQUETTE"/>
+      <tag k="health_facility:paho_id" v="1529001"/>
+      <tag k="name" v="BOIS NEUF / FOSREF"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95747"/>
+      <tag k="source" v="PEPFAR, GEONAMES"/>
+    </node>
+    <node id="-856" lat="18.45" lon="-72.291">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="KENSCOFF"/>
+      <tag k="health_facility:paho_id" v="1159005"/>
+      <tag k="name" v="HOPITAL DE FERMATHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11503"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-857" lat="18.25" lon="-71.85">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="THIOTTE"/>
+      <tag k="health_facility:paho_id" v="2339001"/>
+      <tag k="name" v="CSL DE THIOTTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95748"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-858" lat="18.05" lon="-71.75">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="ANSE-A-PITRE"/>
+      <tag k="health_facility:paho_id" v="2349001"/>
+      <tag k="name" v="CSL ANSE A PITRES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="95749"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-859" lat="19.817" lon="-73.383">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="MOLE SAINT NICOLAS"/>
+      <tag k="health_facility:paho_id" v="9319001"/>
+      <tag k="name" v="CARE SOS FRANCE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95750"/>
+      <tag k="source" v="GEONAMES"/>
+    </node>
+    <node id="-860" lat="19.933502" lon="-72.811643">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9119001"/>
+      <tag k="name" v="FOSREF LAKAY PORT-DE-PAIX"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95751"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-861" lat="19.667" lon="-72.667">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GROS MORNE"/>
+      <tag k="health_facility:paho_id" v="5219001"/>
+      <tag k="name" v="CS CAMPECHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95752"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-862" lat="19.766" lon="-72.667">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GROS MORNE"/>
+      <tag k="health_facility:paho_id" v="5219002"/>
+      <tag k="name" v="CS LA FOSSETTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95753"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-863" lat="19.75" lon="-72.45">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PORT MARGOT"/>
+      <tag k="health_facility:paho_id" v="3529003"/>
+      <tag k="name" v="FONDEFH BIZOTON"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95754"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-864" lat="19.767" lon="-72.35">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="ACUL DU NORD"/>
+      <tag k="health_facility:paho_id" v="3219003"/>
+      <tag k="name" v="HOPITAL DE SAINT MICHEL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95755"/>
+      <tag k="source" v="PEPFAR"/>
+    </node>
+    <node id="-865" lat="19.717" lon="-72.2">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="QUARTIER MORIN"/>
+      <tag k="health_facility:paho_id" v="3129002"/>
+      <tag k="name" v="HOPITAL FORT ST MICHEL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95756"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-866" lat="19.717" lon="-72.2">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="QUARTIER MORIN"/>
+      <tag k="health_facility:paho_id" v="3129003"/>
+      <tag k="name" v="HOPITAL UNIVERSITAIRE JUSTINIEN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95757"/>
+      <tag k="source" v="PEPFAR"/>
+    </node>
+    <node id="-867" lat="19.7323" lon="-72.1857">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="CAP HAITIEN"/>
+      <tag k="health_facility:paho_id" v="3119008"/>
+      <tag k="name" v="Hospital Justinien"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95758"/>
+      <tag k="source" v="UN/MINUSTAH"/>
+    </node>
+    <node id="-868" lat="19.75" lon="-72.1833">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="CAP HAITIEN"/>
+      <tag k="health_facility:paho_id" v="3119007"/>
+      <tag k="name" v="HOPITAL GRANDE RIVIERE DU NORD"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95759"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-869" lat="19.733" lon="-72.15">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="QUARTIER MORIN"/>
+      <tag k="health_facility:paho_id" v="3129001"/>
+      <tag k="name" v="FILLES CHARITE/C.N.S.R.R"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95760"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-870" lat="19.668" lon="-71.85">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="FORT LIBERTE"/>
+      <tag k="health_facility:paho_id" v="4119001"/>
+      <tag k="name" v="FOSREF J. DE FORT-LIBERTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95761"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-871" lat="19.668" lon="-71.84">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="FORT LIBERTE"/>
+      <tag k="health_facility:paho_id" v="4119002"/>
+      <tag k="name" v="HOPITAL DE FORTE-LIBERTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95762"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-872" lat="19.668" lon="-71.8397">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="FORT LIBERTE"/>
+      <tag k="health_facility:paho_id" v="4119004"/>
+      <tag k="name" v="MAISON JEUNE DE FORT LIBERT+"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95763"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-873" lat="19.668" lon="-71.8397">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="FORT LIBERTE"/>
+      <tag k="health_facility:paho_id" v="4119005"/>
+      <tag k="name" v="PDC DE FORT LIBERT+"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95764"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-874" lat="19.617" lon="-71.783">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="FERRIER"/>
+      <tag k="health_facility:paho_id" v="4129001"/>
+      <tag k="name" v="CENTRE DE SANTE DE MARIGOT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95765"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-875" lat="19.5" lon="-71.733">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="OUANAMINTHE"/>
+      <tag k="health_facility:paho_id" v="4219002"/>
+      <tag k="name" v="CENTRE MEDICO-SOCIAL DE OUANAMINTHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95766"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-876" lat="19.45" lon="-71.8">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="OUANAMINTHE"/>
+      <tag k="health_facility:paho_id" v="4219003"/>
+      <tag k="name" v="HOPITAL NOTRE DAME DE LA PAIX JN RABEL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95767"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-877" lat="19.45" lon="-71.7">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="CAPOTILLE"/>
+      <tag k="health_facility:paho_id" v="4220046"/>
+      <tag k="name" v="DISPENSAIRE DE CAPOTILLE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95768"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-878" lat="18.9497" lon="-72.317">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="PETITE RIVIERE DE L&apos;ARTIBONITE"/>
+      <tag k="health_facility:paho_id" v="5429003"/>
+      <tag k="name" v="HAS DESLANDES (UF9)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95769"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-879" lat="18.967" lon="-72.2">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="BOUCAN CARRE"/>
+      <tag k="health_facility:paho_id" v="6239002"/>
+      <tag k="name" v="CENTRE DE SANTE ST MICHEL DE BOUCAN CARRE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95770"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-880" lat="18.917" lon="-71.983">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="LASCAHOBAS"/>
+      <tag k="health_facility:paho_id" v="6319002"/>
+      <tag k="name" v="CENTRE SOCIO-MEDICAL DE CANGE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95771"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-881" lat="18.55" lon="-72.517">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="GRESSIER"/>
+      <tag k="health_facility:paho_id" v="1169001"/>
+      <tag k="name" v="OEUVRES DE BIENFAISANCE DE CARREFOUR ET DE GRESSIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95772"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-882" lat="18.633" lon="-74.167">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="JEREMIE"/>
+      <tag k="health_facility:paho_id" v="8119001"/>
+      <tag k="name" v="CENTRE DE SANTE STE HELENE(CSSH)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95773"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-883" lat="18.566" lon="-74.219">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="JEREMIE"/>
+      <tag k="health_facility:paho_id" v="8119004"/>
+      <tag k="name" v="HAITIAN HEALTH FOUNDATION (HHF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95774"/>
+      <tag k="source" v="PEPFAR, WHO"/>
+    </node>
+    <node id="-884" lat="18.567" lon="-74.1">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="JEREMIE"/>
+      <tag k="health_facility:paho_id" v="8119002"/>
+      <tag k="name" v="CENTRE MEDICAL CHARLES COLIMON"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95775"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-885" lat="18.65" lon="-74.117">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="JEREMIE"/>
+      <tag k="health_facility:paho_id" v="8119005"/>
+      <tag k="name" v="HOPITAL ST ANTOINE DE JEREMIE (HSA)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95776"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-886" lat="18.3" lon="-74.2166">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="LES ANGLAIS"/>
+      <tag k="health_facility:paho_id" v="7529001"/>
+      <tag k="name" v="CAL LES ANGLAIS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95777"/>
+      <tag k="source" v="PEPFAR, WHO"/>
+    </node>
+    <node id="-887" lat="18.2" lon="-73.883">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="CHANTAL"/>
+      <tag k="health_facility:paho_id" v="7139001"/>
+      <tag k="name" v="DISPENSAIRE DE CHANTAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95778"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-888" lat="18.067" lon="-73.917">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="PORT-SALUT"/>
+      <tag k="health_facility:paho_id" v="7219002"/>
+      <tag k="name" v="HCR DE PORT SALUT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95779"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-889" lat="18.076" lon="-73.917">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="PORT-SALUT"/>
+      <tag k="health_facility:paho_id" v="7219003"/>
+      <tag k="name" v="MHDR (PORT SALUT)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95780"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-890" lat="18.126" lon="-73.888">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="PORT-SALUT"/>
+      <tag k="health_facility:paho_id" v="7219001"/>
+      <tag k="name" v="CHOSCAL-CENTRE HOSPITALIER SAINTE-CATHERINE LABOURE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95781"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-891" lat="18.267" lon="-73.75">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="LES CAYES"/>
+      <tag k="health_facility:paho_id" v="7119001"/>
+      <tag k="name" v="CENTRE LAKAY DES CAYES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95782"/>
+      <tag k="source" v="PEPFAR, GEONAMES"/>
+    </node>
+    <node id="-892" lat="18.267" lon="-73.783">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="LES CAYES"/>
+      <tag k="health_facility:paho_id" v="7119005"/>
+      <tag k="name" v="LA FANMY"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95783"/>
+      <tag k="source" v="PEPFAR"/>
+    </node>
+    <node id="-893" lat="18.066" lon="-73.633">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="ILE A VACHE"/>
+      <tag k="health_facility:paho_id" v="7169001"/>
+      <tag k="name" v="CSL ILE + VACHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95784"/>
+      <tag k="source" v="GEONAMES, PEPFAR"/>
+    </node>
+    <node id="-894" lat="18.385" lon="-73.617">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="CAVAILLON"/>
+      <tag k="health_facility:paho_id" v="7339001"/>
+      <tag k="name" v="HOPITAL LUMIERE BONNE FIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95785"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-895" lat="18.385" lon="-73.617">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="CAVAILLON"/>
+      <tag k="health_facility:paho_id" v="7339004"/>
+      <tag k="name" v="SANTE COMMUNAUTAIRE MEBSH BONNE FIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95786"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-896" lat="18.433" lon="-73.45">
+      <tag k="health_facility:commune_id" v="53"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="PETIT TROU DE NIPPES"/>
+      <tag k="health_facility:paho_id" v="10189001"/>
+      <tag k="name" v="CENTRE JEUNES DE DELMAS 19"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95787"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-897" lat="18.388" lon="-73.5">
+      <tag k="health_facility:commune_id" v="53"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="PETIT TROU DE NIPPES"/>
+      <tag k="health_facility:paho_id" v="10189002"/>
+      <tag k="name" v="MATERNITE ISAIE JEANTY"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95788"/>
+      <tag k="source" v="GEONAMES"/>
+    </node>
+    <node id="-898" lat="18.484814" lon="-73.343812">
+      <tag k="health_facility:commune_id" v="51"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="ANSE-A-VEAU"/>
+      <tag k="health_facility:paho_id" v="10159002"/>
+      <tag k="name" v="HOPITAL DE L&apos;UNIVERSITE D&apos;ETAT D&apos;HAITI(HUEH)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95789"/>
+      <tag k="source" v="PEPFAR"/>
+    </node>
+    <node id="-899" lat="18.333" lon="-73.35">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="AQUIN"/>
+      <tag k="health_facility:paho_id" v="7319001"/>
+      <tag k="name" v="CENTRE DE SANTE LUCELIA BONTEMPS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95790"/>
+      <tag k="source" v="GEONAMES, WHO"/>
+    </node>
+    <node id="-900" lat="18.567" lon="-73.617">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="GRAND BOUCAN"/>
+      <tag k="health_facility:paho_id" v="10210905"/>
+      <tag k="name" v="HOSPITAL ARMEE DU SALUT/CLINIC BETHEL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95791"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+  </create>
+</osmChange>

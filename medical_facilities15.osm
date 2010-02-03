@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-751" lat="18.5" lon="-73.783333">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="PESTEL"/>
+      <tag k="health_facility:paho_id" v="8349001"/>
+      <tag k="name" v="ABRICOTS HOSPITAL MATERNITE DES ABRICOTS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95644"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-752" lat="18.5" lon="-74.45">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="DAME-MARIE"/>
+      <tag k="health_facility:paho_id" v="8229001"/>
+      <tag k="name" v="ANSE D HAINAU HOSPITAL ST JEAN BAPTISTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95645"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-753" lat="18.4825" lon="-73.638611">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="BARADERES"/>
+      <tag k="health_facility:paho_id" v="10209001"/>
+      <tag k="name" v="BARADERES HOSPITAL BARADERES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95646"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-754" lat="18.5813744231" lon="-72.3374231838">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129052"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL SAINTE CATHERINE LABOURE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95647"/>
+      <tag k="operational_status" v="open"/>
+      <tag k="operational_status" v="closed"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-755" lat="18.283333" lon="-73.133333">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="AQUIN"/>
+      <tag k="health_facility:paho_id" v="7319008"/>
+      <tag k="name" v="FOND DES BLANCS HOSPITAL SAINT BONIFACE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95648"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-756" lat="18.2" lon="-73.75">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="LES CAYES"/>
+      <tag k="health_facility:paho_id" v="7119008"/>
+      <tag k="name" v="LES CAYES HOSPITAL INSTITUT D&apos;OPHTALMOLOGIE STRAFFORD"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95649"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-757" lat="18.541944" lon="-72.335">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119056"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL CENTRE DE PSYCHIATRIE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95650"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-758" lat="18.541944" lon="-72.335">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119050"/>
+      <tag k="name" v="PORT AU PRINCE CLINC CLINIQUE NEUROPSYCHIATRIE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95651"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-759" lat="18.516666" lon="-72.633333">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="LEOGANE"/>
+      <tag k="health_facility:paho_id" v="1219011"/>
+      <tag k="name" v="LEOGANE HOSPITAL SANATORIUM DE SIGUENAU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95652"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-760" lat="19.333333" lon="-72.116666">
+      <tag k="health_facility:commune_id" v="44"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PIGNON"/>
+      <tag k="health_facility:paho_id" v="3449002"/>
+      <tag k="name" v="PIGNON HOSPITAL DE BIENFAISANCE DE PIGNON"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95653"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-761" lat="19.333333" lon="-72.116666">
+      <tag k="health_facility:commune_id" v="44"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PIGNON"/>
+      <tag k="health_facility:paho_id" v="3449003"/>
+      <tag k="name" v="PIGNON HOSPITAL LA JEUNE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95654"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-762" lat="19.6" lon="-72.466666">
+      <tag k="health_facility:commune_id" v="71"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PLAISANCE"/>
+      <tag k="health_facility:paho_id" v="3719001"/>
+      <tag k="name" v="PLAISANCE HOSPITAL PLAISANCE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95655"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-763" lat="19.75" lon="-72.433333">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PORT MARGOT"/>
+      <tag k="health_facility:paho_id" v="3529004"/>
+      <tag k="name" v="PORT MARGOT HOSPITAL WESLEYAN (FAUCHE)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95656"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-764" lat="19.366666" lon="-71.983333">
+      <tag k="health_facility:commune_id" v="43"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="MOMBIN CROCHU"/>
+      <tag k="health_facility:paho_id" v="4439001"/>
+      <tag k="name" v="MOMBIN CROCHU HOSPITAL MOMBIN CROCHU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95657"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-765" lat="19.366666" lon="-71.783333">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="MONT ORGANISE"/>
+      <tag k="health_facility:paho_id" v="4239003"/>
+      <tag k="name" v="MONT ORGANISE HOSPITAL MONT ORGANISE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95658"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-766" lat="19.55" lon="-71.733333">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="OUANAMINTHE"/>
+      <tag k="health_facility:paho_id" v="4219005"/>
+      <tag k="name" v="OUANAMINTHE HOSPITAL OUANAMINTHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95659"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-767" lat="19.633333" lon="-72.016666">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="TROU DU NORD"/>
+      <tag k="health_facility:paho_id" v="4319001"/>
+      <tag k="name" v="TROU DU NORD HOSPITAL TRU DU NORD"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95660"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-768" lat="19.9" lon="-72.616666">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="ANSE A FOLEUR"/>
+      <tag k="health_facility:paho_id" v="9229001"/>
+      <tag k="name" v="ANSE A FOLEUR HOSPITAL ANSE A FOLEUR"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95661"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-769" lat="19.7" lon="-73.333333">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="BOMBARDOPOLIS"/>
+      <tag k="health_facility:paho_id" v="9339001"/>
+      <tag k="name" v="BOMBARDOPOLIS HOSPITAL BOMBARDOPOLIS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95662"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-770" lat="19.8" lon="-73.383333">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="MOLE SAINT NICOLAS"/>
+      <tag k="health_facility:paho_id" v="9319002"/>
+      <tag k="name" v="MOLE HOSPITAL SAINT NICOLAS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95663"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-771" lat="18.270833" lon="-72.666666">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="LA VALLEE"/>
+      <tag k="health_facility:paho_id" v="2149003"/>
+      <tag k="name" v="LA VALLEE HOSPITAL ST JOSEPH LA VALLE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95664"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-772" lat="19.666666" lon="-72.683333">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GROS MORNE"/>
+      <tag k="health_facility:paho_id" v="5219003"/>
+      <tag k="name" v="GROS-MORNE HOSPITAL ALMA MATER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95665"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-773" lat="19.448333" lon="-72.685277">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GONAIVES"/>
+      <tag k="health_facility:paho_id" v="5119002"/>
+      <tag k="name" v="GONAIVES HOSPITAL PROVIDENCE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95666"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-774" lat="19.95" lon="-72.783333">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9119003"/>
+      <tag k="name" v="PORT DE PAIX - LA POINTE HOSPITAL GENERAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95667"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-775" lat="19.116666" lon="-72.7">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319012"/>
+      <tag k="name" v="ST MARC HOSPITAL ST ANTOINE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95668"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-776" lat="19.366666" lon="-72.333333">
+      <tag k="health_facility:commune_id" v="51"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MICHEL"/>
+      <tag k="health_facility:paho_id" v="5519003"/>
+      <tag k="name" v="ST MICHEL ATT HOSPITAL BON BERGER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95669"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-777" lat="19.599444" lon="-72.781111">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="TERRE NEUVE"/>
+      <tag k="health_facility:paho_id" v="5229001"/>
+      <tag k="name" v="TERRE NEUVE HOSPITAL TERRENEUVE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95670"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-778" lat="18.533333" lon="-72.316666">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119058"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL DU CANAPE VERT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95671"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-779" lat="18.526388" lon="-72.385">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="CARREFOUR"/>
+      <tag k="health_facility:paho_id" v="1139029"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL ADVENTISTE DE HAITI"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95672"/>
+      <tag k="operational_status" v="open"/>
+      <tag k="operational_status" v="closed"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-780" lat="19.116666" lon="-72.7">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319011"/>
+      <tag k="name" v="ST MARC HOSPITAL PIERRE PAYEN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95673"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-781" lat="18.576111" lon="-72.278888">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129051"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL MINUSTAH"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95674"/>
+      <tag k="operational_status" v="open"/>
+      <tag k="operational_status" v="closed"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-782" lat="18.537222" lon="-72.345555">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119053"/>
+      <tag k="name" v="PORT AU PRINCE CLINIC MULTIMED 1"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95675"/>
+      <tag k="operational_status" v="open"/>
+      <tag k="operational_status" v="closed"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-783" lat="18.566944" lon="-72.325277">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129047"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL DE L&apos;OFATMA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95676"/>
+      <tag k="operational_status" v="open"/>
+      <tag k="operational_status" v="closed"/>
+      <tag k="operational_status" v="unspecified"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-784" lat="19.113611" lon="-72.698893">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319009"/>
+      <tag k="name" v="SAINT MARC HOSPITAL SAINT NICOLAS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95677"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-785" lat="18.577611" lon="-72.316">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129054"/>
+      <tag k="name" v="PORT-AU- PRINCE CLINIC ALBRIGHT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95678"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-786" lat="18.570555" lon="-72.253333">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129053"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL ST. DAMIEN CHATEAUBLOND"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95679"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-787" lat="18.541666" lon="-72.278333">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129048"/>
+      <tag k="name" v="PORT AU PRINCE HOSPITAL ESPOIR"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95680"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-788" lat="18.5708333" lon="-72.3147222">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129043"/>
+      <tag k="name" v="ISRAELI FIELD HOSPITAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="field_hospital"/>
+      <tag k="pcode" v="95681"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-789" lat="18.5216667" lon="-72.2497222">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149022"/>
+      <tag k="name" v="RUSSIAN FIELD HOSPITAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="field_hospital"/>
+      <tag k="pcode" v="95682"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-790" lat="18.5541666667" lon="-72.2486111111">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129001"/>
+      <tag k="name" v="BRAZILLIAN FIELD HOSPITAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="field_hospital"/>
+      <tag k="pcode" v="95683"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-791" lat="18.5449135966" lon="-72.3384207712">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119065"/>
+      <tag k="name" v="PROBABLE CHINESE FIELD HOSPITAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="field_hospital"/>
+      <tag k="pcode" v="95684"/>
+      <tag k="source" v="HHS_20100120"/>
+    </node>
+    <node id="-792" lat="19.766" lon="-72.216">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="CAP HAITIEN"/>
+      <tag k="health_facility:paho_id" v="3119006"/>
+      <tag k="name" v="FOSREF Lakay HIV"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="FOSREF"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="31110"/>
+      <tag k="source" v="PEPFAR, GEONAMES HT_HIV_Facilities_2010"/>
+    </node>
+    <node id="-793" lat="18.5485" lon="-72.3393">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1110460"/>
+      <tag k="name" v="HOPITAL RENAISSANCE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95685"/>
+      <tag k="source" v="Ushahidi"/>
+    </node>
+    <node id="-794" lat="18.5467" lon="-72.3047">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129039"/>
+      <tag k="name" v="Hospital St. Charbel"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95686"/>
+      <tag k="source" v="UN/MINUSTAH"/>
+    </node>
+    <node id="-795" lat="18.544" lon="-72.307">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129004"/>
+      <tag k="name" v="CENTRE DE SANTE BERNARD MEVS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95687"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-796" lat="18.545" lon="-72.303">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129041"/>
+      <tag k="name" v="HOSPITALIER ELIAZAR GERMAIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95688"/>
+      <tag k="source" v="PEPFAR, GEONAMES, WHO"/>
+    </node>
+    <node id="-797" lat="18.5403" lon="-72.2978">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129040"/>
+      <tag k="name" v="Hospital Universitario de la Paiz"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95689"/>
+      <tag k="source" v="UN/MINUSTAH"/>
+    </node>
+    <node id="-798" lat="18.54" lon="-72.28277">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129038"/>
+      <tag k="name" v="Hospital Pediatrico Espoa"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95690"/>
+      <tag k="source" v="Sahana Foundation"/>
+    </node>
+    <node id="-799" lat="18.5352" lon="-72.3077">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119048"/>
+      <tag k="name" v="Medicos Sem Fronteira"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95691"/>
+      <tag k="source" v="UN/MINUSTAH"/>
+    </node>
+    <node id="-800" lat="18.5399" lon="-72.3383">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119037"/>
+      <tag k="name" v="Laboratoire Radiologique"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95692"/>
+      <tag k="source" v="Ushahidi"/>
+    </node>
+  </create>
+</osmChange>

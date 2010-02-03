@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-551" lat="19.7774075061" lon="-72.9032760199">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="BASSIN BLEU"/>
+      <tag k="health_facility:paho_id" v="9139002"/>
+      <tag k="name" v="DISPENSAIRE COMMUNAUTAIRE DE FOISON"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95453"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-552" lat="19.9033395462" lon="-72.9620389417">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9110553"/>
+      <tag k="name" v="DISPENSAIRE BAIE DES MOUSTIQUES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95454"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-553" lat="19.4523539742" lon="-72.7353328341">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GONAIVES"/>
+      <tag k="health_facility:paho_id" v="5110554"/>
+      <tag k="name" v="DISPENSAIRE LA PIERRE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95455"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-554" lat="19.9352500671" lon="-72.8322823447">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9110555"/>
+      <tag k="name" v="HOPITAL IMMACULEE CONCEPTION (HIC)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95456"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-555" lat="19.9292344193" lon="-72.8233777054">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9110556"/>
+      <tag k="name" v="LA COUPE FATIMA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="EGLISE CATHOLIQUE"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95457"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-556" lat="19.9056840383" lon="-72.7915019895">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9110557"/>
+      <tag k="name" v="DISPENSAIRE NOTRE DAME LA CROIX SAINT JOSEPH"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="EGLISE CATHOLIQUE LA CROIX SAINT JOSEPH"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95458"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-557" lat="19.9461709558" lon="-72.8235467223">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9110558"/>
+      <tag k="name" v="CENTRE DE SANTE SOLEIL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="OEUVRE DE FATIMA"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95459"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-558" lat="19.9453715275" lon="-72.8209597759">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="PORT DE PAIX"/>
+      <tag k="health_facility:paho_id" v="9110559"/>
+      <tag k="name" v="DISPENSAIRE NOTRE DAME DE FATIMA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="CARITAS HAITI"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95460"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-559" lat="19.6686891041" lon="-72.5502925677">
+      <tag k="health_facility:commune_id" v="72"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PILATE"/>
+      <tag k="health_facility:paho_id" v="3720560"/>
+      <tag k="name" v="HOPITAL ESPERANCE DE PILATE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="CRS"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95461"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-560" lat="19.7370091866" lon="-72.4300885079">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="NORD"/>
+      <tag k="health_facility:commune" v="PORT MARGOT"/>
+      <tag k="health_facility:paho_id" v="3520561"/>
+      <tag k="name" v="CENTRE DE SANTE WESLEYEN DE FAUCHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="EGLISE WESLEYEN D&apos;HAITI"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95462"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-561" lat="18.5389059612" lon="-72.3229008615">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119062"/>
+      <tag k="name" v="POZ CLINIQUE ESPOIR"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95463"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-562" lat="18.5377710461" lon="-72.3180146331">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PORT-AU-PRINCE"/>
+      <tag k="health_facility:paho_id" v="1119064"/>
+      <tag k="name" v="POZ-PORT-AU-PRINCE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95464"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-563" lat="18.4829946215" lon="-73.2068302956">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="PETITE RIVIERE DE NIPPES"/>
+      <tag k="health_facility:paho_id" v="10130563"/>
+      <tag k="name" v="CAL DE MADIAN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP / EGLISE CATHOLIQUE"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95465"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-564" lat="18.476290897" lon="-73.2424913564">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="PETITE RIVIERE DE NIPPES"/>
+      <tag k="health_facility:paho_id" v="10130564"/>
+      <tag k="name" v="DISPENSAIRE DE PETITE RIVIERE DE NIPPES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP (AIDE PAR CARE ET CRS)"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95466"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-565" lat="18.2364998522" lon="-72.5313458718">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110566"/>
+      <tag k="name" v="PROFAMIL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="Patrick Hilaire"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95467"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-566" lat="18.5274015016" lon="-73.5096684354">
+      <tag k="health_facility:commune_id" v="53"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="PETIT TROU DE NIPPES"/>
+      <tag k="health_facility:paho_id" v="10180566"/>
+      <tag k="name" v="CENTRE DE SANTE DE PETIT TROU DE NIPPES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95468"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-567" lat="18.5160596487" lon="-72.2899656997">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149024"/>
+      <tag k="name" v="UNITE CHIRURGICALE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="DR DEGAND MARGARETH"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95469"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-568" lat="18.5168855141" lon="-72.298452887">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1140569"/>
+      <tag k="name" v="CASF KAY POU ZAFET SANTE FANM"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11418"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-569" lat="18.5184426418" lon="-72.2962039605">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149015"/>
+      <tag k="name" v="FRIENDS FOR MISSIONS CENTRE DE NUTRITION ET CLINIQUE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95470"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-570" lat="18.5172312832" lon="-72.2854037105">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149023"/>
+      <tag k="name" v="SERVICE DE SANTE FONDEFH"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="FONDEF H."/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95471"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-571" lat="18.5160627587" lon="-72.276363601">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149006"/>
+      <tag k="name" v="CENTRE DE SANTE FOCOMEL (163)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95472"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-572" lat="18.5092126716" lon="-72.2917015905">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149002"/>
+      <tag k="name" v="CENTRE DE SANTE DE JALOUSIE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="DOCTEUR RE"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95473"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-573" lat="18.5096154069" lon="-72.2914491536">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149010"/>
+      <tag k="name" v="CENTRE MEDICO SOCIAL J.M.P. ANEXTE # 50"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="F.O.C.A.S"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95474"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-574" lat="18.5039090004" lon="-72.2858221411">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149007"/>
+      <tag k="name" v="CENTRE DE SANTE PAR LA FOI"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="SHADEC"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95475"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-575" lat="18.5324358235" lon="-72.2677358565">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="DELMAS"/>
+      <tag k="health_facility:paho_id" v="1129014"/>
+      <tag k="name" v="CENTRE DE SANTE NAZAREEN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="NAZAREEN"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11413"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-576" lat="18.521221997" lon="-72.2541225407">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1140577"/>
+      <tag k="name" v="DISPENSAIRE STE CLAIRE DE FRERES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="SOEURS DE LA CHARITE DE ST YACINTHE"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11410"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-577" lat="18.5202797292" lon="-72.2421257443">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1140578"/>
+      <tag k="name" v="CENTRE DE SANTE HOSPITALIER DE PERNIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11415"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-578" lat="18.5245811664" lon="-72.2287762862">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149011"/>
+      <tag k="name" v="DISPENSAIRE ET PHARMACIE NAN BANBOU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95476"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-579" lat="18.5235906397" lon="-72.2265015671">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1140580"/>
+      <tag k="name" v="CENTRE DE SANTE PERNIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP/ PLAN"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95477"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-580" lat="18.5230280119" lon="-72.225696602">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149004"/>
+      <tag k="name" v="CENTRE DE SANTE ET DE NUTRITION FOCOMEL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="DR LEGER J"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95478"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-581" lat="18.4488502062" lon="-72.2850046906">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="KENSCOFF"/>
+      <tag k="health_facility:paho_id" v="1159008"/>
+      <tag k="name" v="K-LA VI"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="STEPHANIA"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95479"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-582" lat="18.5106869451" lon="-72.271772895">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149008"/>
+      <tag k="name" v="CENTRE DE SANTE ROSEMINA DE DIEGUE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MADAME ROL"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95480"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-583" lat="18.4670378246" lon="-72.2939164919">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="KENSCOFF"/>
+      <tag k="health_facility:paho_id" v="1159003"/>
+      <tag k="name" v="CENTRE DE SANTE DE LA FRATERNITE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="LOUIS ADRI"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95481"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-584" lat="18.4670378246" lon="-72.2939164919">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="KENSCOFF"/>
+      <tag k="health_facility:paho_id" v="1159006"/>
+      <tag k="name" v="HOPITAL FERMATHE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MISSION BAPTISTE DE FERMATHE, MSPP"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11503"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-585" lat="18.4858818451" lon="-72.3128042861">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1140586"/>
+      <tag k="name" v="CENTRE MEDICO SOCIAL DE THOMASSIN 25"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11417"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-586" lat="18.4859998835" lon="-72.3435516652">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149001"/>
+      <tag k="name" v="CENTRE COMMUNAUTAIRE DE FECA(FESSARD"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95482"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-587" lat="18.4936936394" lon="-72.3409721835">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149018"/>
+      <tag k="name" v="JEAN MOSSANTO PEH&apos;T"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="FOCAS / MA"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95483"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-588" lat="18.4983072701" lon="-72.3191600608">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1140589"/>
+      <tag k="name" v="CENTRE JN MOSSANTO PETIT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MADAME DIL"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11403"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-589" lat="18.5187612402" lon="-72.291967736">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="PETION-VILLE"/>
+      <tag k="health_facility:paho_id" v="1149016"/>
+      <tag k="name" v="HOPITAL SAINT DAMIEN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="NOS PETITS FRERES ET SOEURS"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95484"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-590" lat="19.4340245519" lon="-72.6976966248">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GONAIVES"/>
+      <tag k="health_facility:paho_id" v="5110591"/>
+      <tag k="name" v="HOPITAL DE RABOTEAU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="95485"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-591" lat="19.5300210639" lon="-71.7612483814">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD EST"/>
+      <tag k="health_facility:commune" v="OUANAMINTHE"/>
+      <tag k="health_facility:paho_id" v="4219001"/>
+      <tag k="name" v="CENTRE DE SANTE DE SAVANNE AU LAIT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95486"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-592" lat="19.1065974892" lon="-72.7026185183">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319010"/>
+      <tag k="name" v="Service de SantT de PremiFre Echelon"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="Dr Duchatailly Raymond  Miss Belforte"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95487"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-593" lat="18.2698694545" lon="-72.4250541048">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="CAYES-JACMEL"/>
+      <tag k="health_facility:paho_id" v="2130594"/>
+      <tag k="name" v="DP DE CAP ROUGE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95488"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-594" lat="18.2365371705" lon="-71.8601154591">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="THIOTTE"/>
+      <tag k="health_facility:paho_id" v="2330595"/>
+      <tag k="name" v="CENTRE DE SANTE DE THIOTTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP / DSSE"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95489"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-595" lat="18.2763517877" lon="-71.8107443742">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="THIOTTE"/>
+      <tag k="health_facility:paho_id" v="2330596"/>
+      <tag k="name" v="CENTRE DE SANTE SAVANNE ZOMBIE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP / DSSE"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95490"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-596" lat="18.2378532665" lon="-72.0636249764">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="BELLE ANSE"/>
+      <tag k="health_facility:paho_id" v="2310597"/>
+      <tag k="name" v="CENTRE DE SANTE DE BELLE ANSE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95491"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-597" lat="18.2646785522" lon="-71.9716501563">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="BELLE ANSE"/>
+      <tag k="health_facility:paho_id" v="2310598"/>
+      <tag k="name" v="DISPENSAIRE DE MAPOU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP / DSSE"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95492"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-598" lat="18.1865188137" lon="-71.9181920777">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="THIOTTE"/>
+      <tag k="health_facility:paho_id" v="2330599"/>
+      <tag k="name" v="DISPENSAIRE GRAND GOSIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP / DSSE"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95493"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-599" lat="18.2591111022" lon="-71.894717238">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="GRAND GOSIER"/>
+      <tag k="health_facility:paho_id" v="2320600"/>
+      <tag k="name" v="CENTRE DE SANTE DE BOUDARIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP / DSSE"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95494"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-600" lat="18.2316526271" lon="-72.3263766142">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="MARIGOT"/>
+      <tag k="health_facility:paho_id" v="2120601"/>
+      <tag k="name" v="CENTRE DE SANTE DE MARIGOT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95495"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+  </create>
+</osmChange>

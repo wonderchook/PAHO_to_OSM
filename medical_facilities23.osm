@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-1151" lat="19.1443398867" lon="-72.0190372983">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Hinche"/>
+      <tag k="health_facility:paho_id" v="6115001"/>
+      <tag k="name" v="H&#244;pital Sainte Th&#233;r&#232;se"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="61100"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1152" lat="19.1873090534" lon="-71.7484984991">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca La Source"/>
+      <tag k="health_facility:paho_id" v="6415002"/>
+      <tag k="name" v="Centre de Sant&#233; Nan Cajou"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="64101"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1153" lat="19.1873090534" lon="-71.7484984991">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca La Source"/>
+      <tag k="health_facility:paho_id" v="6415007"/>
+      <tag k="name" v="Dispensaire de Saltad&#232;re"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="64102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1154" lat="19.2602901103" lon="-71.93961227">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca Cavajal"/>
+      <tag k="health_facility:paho_id" v="6145008"/>
+      <tag k="name" v="Dispensaire de Basin Zim"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61402"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1155" lat="19.1443398867" lon="-72.0190372983">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Hinche"/>
+      <tag k="health_facility:paho_id" v="6115009"/>
+      <tag k="name" v="Dispensaire la Belle Onde"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1156" lat="19.2602901103" lon="-71.93961227">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca Cavajal"/>
+      <tag k="health_facility:paho_id" v="6145010"/>
+      <tag k="name" v="Dispensaire de Montegrande"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61403"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1157" lat="19.1873090534" lon="-71.7484984991">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca La Source"/>
+      <tag k="health_facility:paho_id" v="6415011"/>
+      <tag k="name" v="Dispensaire de Baltazar (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="64103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1158" lat="19.1873090534" lon="-71.7484984991">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca La Source"/>
+      <tag k="health_facility:paho_id" v="6415014"/>
+      <tag k="name" v="Dispensaire de Pacasse (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="64104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1159" lat="19.2602901103" lon="-71.93961227">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca Cavajal"/>
+      <tag k="health_facility:paho_id" v="6145015"/>
+      <tag k="name" v="Dispensaire de Los Palis"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61404"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1160" lat="19.1443398867" lon="-72.0190372983">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Hinche"/>
+      <tag k="health_facility:paho_id" v="6115016"/>
+      <tag k="name" v="Dispensaire de Los Palma (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1161" lat="19.2602901103" lon="-71.93961227">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca Cavajal"/>
+      <tag k="health_facility:paho_id" v="6145017"/>
+      <tag k="name" v="Dispensaire Bon Samaritain"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61405"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1162" lat="19.1873090534" lon="-71.7484984991">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca La Source"/>
+      <tag k="health_facility:paho_id" v="6415018"/>
+      <tag k="name" v="Dispensaire Ti Lory"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="64105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1163" lat="19.2602901103" lon="-71.93961227">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca Cavajal"/>
+      <tag k="health_facility:paho_id" v="6145019"/>
+      <tag k="name" v="Dispensaire d&#146;Angoman"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61406"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1164" lat="19.1443398867" lon="-72.0190372983">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Hinche"/>
+      <tag k="health_facility:paho_id" v="6115020"/>
+      <tag k="name" v="Clinique de l&#146;incarnation de Pandiasou"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="61106"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1165" lat="19.2602901103" lon="-71.93961227">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Cerca Cavajal"/>
+      <tag k="health_facility:paho_id" v="6145021"/>
+      <tag k="name" v="Centre de Sant&#233; Farn&#232;se Louis Jeune"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61407"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1166" lat="18.7460901016" lon="-71.8414437009">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Savanette"/>
+      <tag k="health_facility:paho_id" v="6335001"/>
+      <tag k="name" v="Centre de Sant&#233; de Savanette"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="63301"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1167" lat="18.8666797311" lon="-71.9506963116">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Lascahobas"/>
+      <tag k="health_facility:paho_id" v="6315005"/>
+      <tag k="name" v="Dispensaire la Hoye"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="63102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1168" lat="18.8308406343" lon="-72.2370234698">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Saut d&#146;Eau"/>
+      <tag k="health_facility:paho_id" v="6225006"/>
+      <tag k="name" v="Dispensaire Montagne Terrible"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="62202"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1169" lat="18.7850575998" lon="-72.0819499249">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Mirebalais"/>
+      <tag k="health_facility:paho_id" v="6215007"/>
+      <tag k="name" v="H&#244;pital Eye Care"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="62102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1170" lat="18.7460901016" lon="-71.8414437009">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Savanette"/>
+      <tag k="health_facility:paho_id" v="6335008"/>
+      <tag k="name" v="Dispensaire de Colombier"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="63302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1171" lat="18.8308406343" lon="-72.2370234698">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Saut d&#146;Eau"/>
+      <tag k="health_facility:paho_id" v="6225009"/>
+      <tag k="name" v="Dispensaire Cap Anamur (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="62203"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1172" lat="18.8666797311" lon="-71.9506963116">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Lascahobas"/>
+      <tag k="health_facility:paho_id" v="6315010"/>
+      <tag k="name" v="Dispensaire Pareidon (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="63103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1173" lat="18.7850575998" lon="-72.0819499249">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Mirebalais"/>
+      <tag k="health_facility:paho_id" v="6215011"/>
+      <tag k="name" v="Clinique Mennonite"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="62103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1174" lat="18.8666797311" lon="-71.9506963116">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Lascahobas"/>
+      <tag k="health_facility:paho_id" v="6315013"/>
+      <tag k="name" v="Dispensaire Caste"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="63104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1175" lat="18.7850575998" lon="-72.0819499249">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Mirebalais"/>
+      <tag k="health_facility:paho_id" v="6215014"/>
+      <tag k="name" v="Dispensaire Grand Boucan (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="62105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1176" lat="18.7850575998" lon="-72.0819499249">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Mirebalais"/>
+      <tag k="health_facility:paho_id" v="6215015"/>
+      <tag k="name" v="Dispensaire Fonds Michel"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="62106"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1177" lat="18.9523225352" lon="-72.1521664389">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Boucan Carr&#233;"/>
+      <tag k="health_facility:paho_id" v="6235001"/>
+      <tag k="name" v="Dispensaire de Boucan Carr&#233;"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="62301"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1178" lat="18.9995944213" lon="-71.9929378212">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Thomonde"/>
+      <tag k="health_facility:paho_id" v="6135002"/>
+      <tag k="name" v="Centre de Sant&#233; de Thomonde"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61301"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1179" lat="18.9523225352" lon="-72.1521664389">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Boucan Carr&#233;"/>
+      <tag k="health_facility:paho_id" v="6235003"/>
+      <tag k="name" v="Centre de Sant&#233; avec Lits Saint Esprit"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="62302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1180" lat="18.9523225352" lon="-72.1521664389">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Boucan Carr&#233;"/>
+      <tag k="health_facility:paho_id" v="6235004"/>
+      <tag k="name" v="Centre de Sant&#233; avec lits de Cange"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="62303"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1181" lat="18.8632274157" lon="-71.8115505399">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Bellad&#232;re"/>
+      <tag k="health_facility:paho_id" v="6325001"/>
+      <tag k="name" v="H&#244;pital Notre Dame de la Nativit&#233;"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="63201"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1182" lat="18.8632274157" lon="-71.8115505399">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Bellad&#232;re"/>
+      <tag k="health_facility:paho_id" v="6325002"/>
+      <tag k="name" v="Dispensaire de Croix de fer"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="63202"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1183" lat="19.1884230249" lon="-72.1789873487">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Ma&#239;ssade"/>
+      <tag k="health_facility:paho_id" v="6125003"/>
+      <tag k="name" v="Dispensaire Bassin Cave (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61203"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1184" lat="19.1884230249" lon="-72.1789873487">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="Ma&#239;ssade"/>
+      <tag k="health_facility:paho_id" v="6125006"/>
+      <tag k="name" v="Dispensaire Hatty (NF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="61206"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1185" lat="18.2808819236" lon="-73.2188832152">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Aquin"/>
+      <tag k="health_facility:paho_id" v="7315002"/>
+      <tag k="name" v="CS Aquin"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="73101"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1186" lat="18.2808819236" lon="-73.2188832152">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Aquin"/>
+      <tag k="health_facility:paho_id" v="7315005"/>
+      <tag k="name" v="Fond des Blancs"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="73103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1187" lat="18.2824394176" lon="-73.5313492213">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Saint Louis du Sud"/>
+      <tag k="health_facility:paho_id" v="7325007"/>
+      <tag k="name" v="World Vision BD"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="73204"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1188" lat="18.2808819236" lon="-73.2188832152">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Aquin"/>
+      <tag k="health_facility:paho_id" v="7315008"/>
+      <tag k="name" v="Charles Pasqua"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="73104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1189" lat="18.2824394176" lon="-73.5313492213">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Saint Louis du Sud"/>
+      <tag k="health_facility:paho_id" v="7325010"/>
+      <tag k="name" v="Cherette"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="73205"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1190" lat="18.2808819236" lon="-73.2188832152">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Aquin"/>
+      <tag k="health_facility:paho_id" v="7315011"/>
+      <tag k="name" v="Ste H&#233;l&#232;ne"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="73106"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1191" lat="18.2404503588" lon="-74.0254108594">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Coteaux"/>
+      <tag k="health_facility:paho_id" v="7415001"/>
+      <tag k="name" v="Coteaux"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="74101"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1192" lat="18.2404503588" lon="-74.0254108594">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Coteaux"/>
+      <tag k="health_facility:paho_id" v="7415005"/>
+      <tag k="name" v="Damassin"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="74102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1193" lat="18.1173394485" lon="-73.9056234146">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Port Salut"/>
+      <tag k="health_facility:paho_id" v="7215007"/>
+      <tag k="name" v="Carpentier"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="72103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1194" lat="18.3426171885" lon="-73.6325355986">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cavaillon"/>
+      <tag k="health_facility:paho_id" v="7335003"/>
+      <tag k="name" v="Cavaillon NDPS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="73303"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1195" lat="18.3426171885" lon="-73.6325355986">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cavaillon"/>
+      <tag k="health_facility:paho_id" v="7335005"/>
+      <tag k="name" v="Com. Bonne Fin"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="73305"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1196" lat="18.3007372818" lon="-73.7614316502">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cayes"/>
+      <tag k="health_facility:paho_id" v="7115001"/>
+      <tag k="name" v="HIC"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="71100"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1197" lat="18.3007372818" lon="-73.7614316502">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cayes"/>
+      <tag k="health_facility:paho_id" v="7115016"/>
+      <tag k="name" v="Quatre Chemins"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="71106"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1198" lat="18.3007372818" lon="-73.7614316502">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cayes"/>
+      <tag k="health_facility:paho_id" v="7115018"/>
+      <tag k="name" v="LKTMBD"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="71108"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1199" lat="18.3007372818" lon="-73.7614316502">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cayes"/>
+      <tag k="health_facility:paho_id" v="7115021"/>
+      <tag k="name" v="Bur/Enic"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="hospital_specialization" v="FIXME"/>
+      <tag k="pcode" v="71111"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1200" lat="18.3007372818" lon="-73.7614316502">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cayes"/>
+      <tag k="health_facility:paho_id" v="7115025"/>
+      <tag k="name" v="Terre des Hommes"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="71115"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+  </create>
+</osmChange>

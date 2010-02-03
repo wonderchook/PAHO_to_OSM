@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-1201" lat="18.3007372818" lon="-73.7614316502">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="Cayes"/>
+      <tag k="health_facility:paho_id" v="7115026"/>
+      <tag k="name" v="FORSREF"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="71116"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1202" lat="18.4935132785" lon="-73.824715622">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Pestel"/>
+      <tag k="health_facility:paho_id" v="8345004"/>
+      <tag k="name" v="SSPE des Basses"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83402"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1203" lat="18.5052146334" lon="-73.9514315429">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Corail"/>
+      <tag k="health_facility:paho_id" v="8315005"/>
+      <tag k="name" v="SSPE de Moulines"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1204" lat="18.5052146334" lon="-73.9514315429">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Corail"/>
+      <tag k="health_facility:paho_id" v="8315007"/>
+      <tag k="name" v="Saint G&#233;rard de chadonnette"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1205" lat="18.4935132785" lon="-73.824715622">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Pestel"/>
+      <tag k="health_facility:paho_id" v="8345009"/>
+      <tag k="name" v="SSPE Espwa de Pointe Sable"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83404"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1206" lat="18.4935132785" lon="-73.824715622">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Pestel"/>
+      <tag k="health_facility:paho_id" v="8345010"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="0"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1207" lat="18.5052146334" lon="-73.9514315429">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Corail"/>
+      <tag k="health_facility:paho_id" v="8315011"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="83104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1208" lat="18.5052146334" lon="-73.9514315429">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Corail"/>
+      <tag k="health_facility:paho_id" v="8315012"/>
+      <tag k="name" v="G&#233;beau &#224; Corail"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1209" lat="18.5052146334" lon="-73.9514315429">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Corail"/>
+      <tag k="health_facility:paho_id" v="8315013"/>
+      <tag k="name" v="Sainte Claire de Corail"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1210" lat="18.4935132785" lon="-73.824715622">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Pestel"/>
+      <tag k="health_facility:paho_id" v="8345014"/>
+      <tag k="name" v="Anse -&#224;- Ma&#231;on"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83405"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1211" lat="18.6306690205" lon="-74.2375014349">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Bonbon"/>
+      <tag k="health_facility:paho_id" v="8135002"/>
+      <tag k="name" v="Chemen La vi de Bonbon"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="81301"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1212" lat="18.5152666633" lon="-74.0405750829">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Roseaux"/>
+      <tag k="health_facility:paho_id" v="8325004"/>
+      <tag k="name" v="Bon Samaritain des Roseaux"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83201"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1213" lat="18.6306690205" lon="-74.2375014349">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Bonbon"/>
+      <tag k="health_facility:paho_id" v="8135007"/>
+      <tag k="name" v="HHF de Bonbon"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="81302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1214" lat="18.5152666633" lon="-74.0405750829">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Roseaux"/>
+      <tag k="health_facility:paho_id" v="8325010"/>
+      <tag k="name" v="CMS de G&#233;beau &#224; Roseaux"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="83203"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1215" lat="18.5338344078" lon="-74.1610410758">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="J&#233;r&#233;mie"/>
+      <tag k="health_facility:paho_id" v="8115021"/>
+      <tag k="name" v="Sainte Famille de Bordes"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="81113"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1216" lat="18.5338344078" lon="-74.1610410758">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="J&#233;r&#233;mie"/>
+      <tag k="health_facility:paho_id" v="8115022"/>
+      <tag k="name" v="CARITAS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="81112"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1217" lat="18.6150255051" lon="-74.3156886414">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Abricots"/>
+      <tag k="health_facility:paho_id" v="8125023"/>
+      <tag k="name" v="Sidp. De Saint Victor de Abricots"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="81203"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1218" lat="18.5338344078" lon="-74.1610410758">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="J&#233;r&#233;mie"/>
+      <tag k="health_facility:paho_id" v="8115024"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="0"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1219" lat="18.4771329292" lon="-74.2653214074">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Moron"/>
+      <tag k="health_facility:paho_id" v="8145004"/>
+      <tag k="name" v="HHF de Moron"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="81402"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1220" lat="18.3976742083" lon="-74.3817112033">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Irois"/>
+      <tag k="health_facility:paho_id" v="8235005"/>
+      <tag k="name" v="Saint Joseph de Carcasse"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="82303"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1221" lat="18.5576703061" lon="-74.3957517024">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Dame Marie"/>
+      <tag k="health_facility:paho_id" v="8225008"/>
+      <tag k="name" v="SKS Petite Rivi&#232;re de Dame Marie"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="82204"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1222" lat="18.4606367287" lon="-74.3986583348">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Anse d&#146;Hainault"/>
+      <tag k="health_facility:paho_id" v="8215010"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="0"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1223" lat="18.3976742083" lon="-74.3817112033">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Irois"/>
+      <tag k="health_facility:paho_id" v="8235011"/>
+      <tag k="name" v="Saint Martin de Porres"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="82302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1224" lat="18.4606367287" lon="-74.3986583348">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Anse d&#146;Hainault"/>
+      <tag k="health_facility:paho_id" v="8215012"/>
+      <tag k="name" v="Iceus Picard de Sicard"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="82104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1225" lat="18.4606367287" lon="-74.3986583348">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="Anse d&#146;Hainault"/>
+      <tag k="health_facility:paho_id" v="8215013"/>
+      <tag k="name" v="Sainte Hel&#232;ne d&apos;&#193;nse  d&apos; Hainault"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="82103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1226" lat="19.7783969211" lon="-73.3459641314">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="M&#244;le St Nicolas"/>
+      <tag k="health_facility:paho_id" v="9315003"/>
+      <tag k="name" v="Mare Rouge"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="93102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1227" lat="19.8300173051" lon="-73.1278416615">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Jean Rabel"/>
+      <tag k="health_facility:paho_id" v="9345005"/>
+      <tag k="name" v="La Montagne"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93403"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1228" lat="19.7783969211" lon="-73.3459641314">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="M&#244;le St Nicolas"/>
+      <tag k="health_facility:paho_id" v="9315007"/>
+      <tag k="name" v="C&#244;tes de Fer"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93104"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1229" lat="19.7783969211" lon="-73.3459641314">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="M&#244;le St Nicolas"/>
+      <tag k="health_facility:paho_id" v="9315010"/>
+      <tag k="name" v="Temps Perdu"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1230" lat="19.8300173051" lon="-73.1278416615">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Jean Rabel"/>
+      <tag k="health_facility:paho_id" v="9345011"/>
+      <tag k="name" v="La R&#233;serve"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93406"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1231" lat="19.8300173051" lon="-73.1278416615">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Jean Rabel"/>
+      <tag k="health_facility:paho_id" v="9345013"/>
+      <tag k="name" v="Raymond"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93408"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1232" lat="19.8300173051" lon="-73.1278416615">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Jean Rabel"/>
+      <tag k="health_facility:paho_id" v="9345014"/>
+      <tag k="name" v="Dubois"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93409"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1233" lat="19.8300173051" lon="-73.1278416615">
+      <tag k="health_facility:commune_id" v="34"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Jean Rabel"/>
+      <tag k="health_facility:paho_id" v="9345018"/>
+      <tag k="name" v="Port &#224; l&#146;Ecu"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93413"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1234" lat="19.6927361396" lon="-73.2004035889">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Baie de Henne"/>
+      <tag k="health_facility:paho_id" v="9325001"/>
+      <tag k="name" v="Baie de Henne"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93201"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1235" lat="19.6927361396" lon="-73.2004035889">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Baie de Henne"/>
+      <tag k="health_facility:paho_id" v="9325003"/>
+      <tag k="name" v="La Source"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93202"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1236" lat="19.6910515444" lon="-73.3474429738">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Bombardopolis"/>
+      <tag k="health_facility:paho_id" v="9335007"/>
+      <tag k="name" v="Plate Forme"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93304"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1237" lat="19.6927361396" lon="-73.2004035889">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Baie de Henne"/>
+      <tag k="health_facility:paho_id" v="9325010"/>
+      <tag k="name" v="Citenne R&#233;my"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="93205"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1238" lat="19.851856455" lon="-72.9116956688">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Port de Paix"/>
+      <tag k="health_facility:paho_id" v="9115008"/>
+      <tag k="name" v="Foison"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="91107"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1239" lat="19.851856455" lon="-72.9116956688">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Port de Paix"/>
+      <tag k="health_facility:paho_id" v="9115010"/>
+      <tag k="name" v="Soleil"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="91109"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1240" lat="19.851856455" lon="-72.9116956688">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Port de Paix"/>
+      <tag k="health_facility:paho_id" v="9115016"/>
+      <tag k="name" v="Monfort"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="91115"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1241" lat="19.7858716962" lon="-72.841182817">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Bassin Bleu"/>
+      <tag k="health_facility:paho_id" v="9135003"/>
+      <tag k="name" v="La Plate"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="91302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1242" lat="19.7858716962" lon="-72.841182817">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Bassin Bleu"/>
+      <tag k="health_facility:paho_id" v="9135005"/>
+      <tag k="name" v="La Brousse"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="0"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1243" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215003"/>
+      <tag k="name" v="NWCM"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="92103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1244" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215005"/>
+      <tag k="name" v="Chamoise"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1245" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215006"/>
+      <tag k="name" v="Glacis"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92106"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1246" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215007"/>
+      <tag k="name" v="La Perri&#232;re"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92107"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1247" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215008"/>
+      <tag k="name" v="Jean Clair"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92108"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1248" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215009"/>
+      <tag k="name" v="Gaspard"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92109"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1249" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215010"/>
+      <tag k="name" v="Chaineau"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92110"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1250" lat="19.8724849453" lon="-72.6968161507">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="St Louis du Nord"/>
+      <tag k="health_facility:paho_id" v="9215013"/>
+      <tag k="name" v="Guichard"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92113"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+  </create>
+</osmChange>

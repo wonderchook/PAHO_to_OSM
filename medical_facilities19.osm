@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-951" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125069"/>
+      <tag k="name" v="Vie et  sant&#233;"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11215"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-952" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125070"/>
+      <tag k="name" v="Fondeph delmas"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11216"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-953" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125071"/>
+      <tag k="name" v="Hopital Isa&#239;e Jeanty"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11217"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-954" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125072"/>
+      <tag k="name" v="Haiti Med"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11218"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-955" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125073"/>
+      <tag k="name" v="Centre de sant&#233; croix des missions"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11219"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-956" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125076"/>
+      <tag k="name" v="Centre de Sant&#233;  Saint-Jean"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11222"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-957" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125077"/>
+      <tag k="name" v="H&#244;pital de l&apos;OFATMA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11223"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-958" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125078"/>
+      <tag k="name" v="Centre de Sant&#233; de Petite Place Cazeau"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11224"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-959" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125079"/>
+      <tag k="name" v="Centre de Sant&#233; Saint-Martin I"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11225"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-960" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125080"/>
+      <tag k="name" v="Centre de Sant&#233; Saint-Martin II"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="11226"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-961" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125082"/>
+      <tag k="name" v="Bernard Mews"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11228"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-962" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125083"/>
+      <tag k="name" v="CHOSCAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11229"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-963" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125084"/>
+      <tag k="name" v="CHAPI"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11230"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-964" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125085"/>
+      <tag k="name" v="C/S Fontaine"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11231"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-965" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125086"/>
+      <tag k="name" v="Centre m&#233;dical &amp; de nutrition Rosalie Rendu"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11232"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-966" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125087"/>
+      <tag k="name" v="C/S P&#232;lerin"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11233"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-967" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135089"/>
+      <tag k="name" v="Dispensaire de Cookson Hill"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-968" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135090"/>
+      <tag k="name" v="H&#244;pital de carrefour"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11303"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-969" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135091"/>
+      <tag k="name" v="Centre m&#233;dico social (rivi&#232;re froide)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11304"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-970" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135092"/>
+      <tag k="name" v="C/S B&#233;thel Mahoti&#232;re 81"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11305"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-971" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135094"/>
+      <tag k="name" v="CSL La Barque de Pierre"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11307"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-972" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135095"/>
+      <tag k="name" v="Dispensaire la main tendue de Bertin"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11308"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-973" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135096"/>
+      <tag k="name" v="CSL OBCG"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11309"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-974" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135097"/>
+      <tag k="name" v="SHEKINAH"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11310"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-975" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135098"/>
+      <tag k="name" v="Dispensaire de Taiffer"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11311"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-976" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135099"/>
+      <tag k="name" v="Centre de Sant&#233; Communautaire de Waney 87"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11312"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-977" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135100"/>
+      <tag k="name" v="Centre de Sant&#233; B&#233;thel"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11313"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-978" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135101"/>
+      <tag k="name" v="Centre de Sant&#233; Multi fonctionnaire de sous-rail"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11314"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-979" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135102"/>
+      <tag k="name" v="Dispensaire ASCOSADEC"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11315"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-980" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135103"/>
+      <tag k="name" v="H&#244;pital Food for the Poor"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11316"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-981" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135104"/>
+      <tag k="name" v="C/S Omes"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11317"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-982" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135105"/>
+      <tag k="name" v="C/S M&#232;re T&#233;r&#233;sa"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11318"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-983" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135106"/>
+      <tag k="name" v="Centre de Sant&#233; Hands of Love"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11319"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-984" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135107"/>
+      <tag k="name" v="Centre de la communaut&#233; des fr&#232;res unis"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11320"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-985" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135109"/>
+      <tag k="name" v="C/S Maranatha"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11322"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-986" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135110"/>
+      <tag k="name" v="Zion par la Foi"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11323"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-987" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135111"/>
+      <tag k="name" v="C/S Maranatha"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11324"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-988" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135112"/>
+      <tag k="name" v="Dispensaire Mocot"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11325"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-989" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135113"/>
+      <tag k="name" v="C/S Bertin"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11326"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-990" lat="18.4660248434" lon="-72.4110972953">
+      <tag k="health_facility:commune_id" v="13"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Carrefour"/>
+      <tag k="health_facility:paho_id" v="1135114"/>
+      <tag k="name" v="Clinique mennonite"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11327"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-991" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145115"/>
+      <tag k="name" v="Centre de Sant&#233; calebasse"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11401"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-992" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145116"/>
+      <tag k="name" v="Citymed de P&#233;tion ville"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11402"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-993" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145119"/>
+      <tag k="name" v="Centre Eliazar Germain"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11405"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-994" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145120"/>
+      <tag k="name" v="C/S Francisca Cabrini"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11406"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-995" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145121"/>
+      <tag k="name" v="Hopital Censhop"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11407"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-996" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145122"/>
+      <tag k="name" v="CSL family center"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="11408"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-997" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145123"/>
+      <tag k="name" v="Fondeph"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11409"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-998" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145125"/>
+      <tag k="name" v="C/S kay lavi"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11411"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-999" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145126"/>
+      <tag k="name" v="Hopital nos petits fr&#232;res et soeurs"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11412"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1000" lat="18.480860066" lon="-72.254570786">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="P&#233;tion ville"/>
+      <tag k="health_facility:paho_id" v="1145128"/>
+      <tag k="name" v="C/S Notre Dame du Cap"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11414"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+  </create>
+</osmChange>

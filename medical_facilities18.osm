@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-901" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115001"/>
+      <tag k="name" v="H&#244;pital du Canap&#233;-vert"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11154"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-902" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115002"/>
+      <tag k="name" v="Dispensaire de l&#146;Ass. Des Chauffeurs guides"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11101"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-903" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115003"/>
+      <tag k="name" v="Dispensaire de Baillergeau c/s camp&#234;che"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11102"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-904" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115004"/>
+      <tag k="name" v="Centre de Sant&#233; Aurore du Belair"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11103"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-905" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115006"/>
+      <tag k="name" v="Dispensaire Carifont de Fontamara"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-906" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115008"/>
+      <tag k="name" v="Centre de sant&#233; de St. Antoine"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11107"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-907" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115009"/>
+      <tag k="name" v="Centre de Sant&#233; Snelak"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11108"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-908" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115010"/>
+      <tag k="name" v="Centre de Sant&#233; de Solino"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11109"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-909" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115011"/>
+      <tag k="name" v="Centre de Sant&#233; trou sable"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11110"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-910" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115012"/>
+      <tag k="name" v="SOFA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11111"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-911" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115013"/>
+      <tag k="name" v="Centre de Sant&#233; Richard Allen"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11112"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-912" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115014"/>
+      <tag k="name" v="ASOLDO"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11113"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-913" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115015"/>
+      <tag k="name" v="H&#244;pital Fran&#231;ois"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="11114"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-914" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115016"/>
+      <tag k="name" v="Centre de Sant&#233; du Bon Secours"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11115"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-915" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115017"/>
+      <tag k="name" v="Klinik fanm kafou fey"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11116"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-916" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115018"/>
+      <tag k="name" v="Ligue anti anemie falciforme (LAAF)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11117"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-917" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115019"/>
+      <tag k="name" v="Centre de psychiatrie Mars &amp; Kline"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11118"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-918" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115020"/>
+      <tag k="name" v="Centre St Antoine"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11119"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-919" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115022"/>
+      <tag k="name" v="CAL SODEC"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="11121"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-920" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115023"/>
+      <tag k="name" v="PROFAMIL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11122"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-921" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115026"/>
+      <tag k="name" v="Centre P&#233;dodontique"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11125"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-922" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115027"/>
+      <tag k="name" v="World Relief"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11126"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-923" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115028"/>
+      <tag k="name" v="Institut Fame Pereo"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11127"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-924" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115029"/>
+      <tag k="name" v="Centre de sant&#233; croix des pr&#233;s"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11128"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-925" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115031"/>
+      <tag k="name" v="APROSIFA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11130"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-926" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115033"/>
+      <tag k="name" v="Centre de sant&#233; kay ti moun"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11132"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-927" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115034"/>
+      <tag k="name" v="CMS/FHSM"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11133"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-928" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115035"/>
+      <tag k="name" v="Centre de sant&#233; Martissant"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11134"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-929" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115036"/>
+      <tag k="name" v="Centre de sant&#233; Caravelle"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11135"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-930" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115038"/>
+      <tag k="name" v="Centre de Sant&#233; Bethanie"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11137"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-931" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115039"/>
+      <tag k="name" v="Centre St Jude"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11138"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-932" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115040"/>
+      <tag k="name" v="Centre de Sant&#233; ACDEF mapou"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11139"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-933" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115041"/>
+      <tag k="name" v="Centre de Sant&#233; Providence"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11140"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-934" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115042"/>
+      <tag k="name" v="Centre de Sant&#233; Bethesda"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11141"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-935" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115046"/>
+      <tag k="name" v="H&#244;pital Saint-esprit"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11145"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-936" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115048"/>
+      <tag k="name" v="H&#244;pital Sapiens"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11147"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-937" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115049"/>
+      <tag k="name" v="Maternit&#233; UMO"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11148"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-938" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115053"/>
+      <tag k="name" v="Maternit&#233; de Christ-roi"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11152"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-939" lat="18.5259222177" lon="-72.3350688194">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Port-au-Prince"/>
+      <tag k="health_facility:paho_id" v="1115054"/>
+      <tag k="name" v="Centre de Sant&#233; cite Canada (Haut Turgeau)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11153"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-940" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125055"/>
+      <tag k="name" v="Centre de sant&#233;  Arm&#233;e du Salut"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11201"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-941" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125057"/>
+      <tag k="name" v="C/S Delmas 30"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11203"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-942" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125058"/>
+      <tag k="name" v="C/S La Saline"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11204"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-943" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125059"/>
+      <tag k="name" v="Citymed de Delmas"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11205"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-944" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125060"/>
+      <tag k="name" v="Centre de sant&#233; de Delmas 33"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11206"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-945" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125061"/>
+      <tag k="name" v="C/S communaut&#233; chr&#233;tienne Fleuriot de Tabarre"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11207"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-946" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125064"/>
+      <tag k="name" v="Centre de sant&#233; solidarit&#233;"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11210"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-947" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125065"/>
+      <tag k="name" v="Hopital saint Charbel (DASH)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11211"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-948" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125066"/>
+      <tag k="name" v="Hopital Jude Anne (DASH)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11212"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-949" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125067"/>
+      <tag k="name" v="Centre de sant&#233; lumi&#232;re"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11213"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-950" lat="18.5704176049" lon="-72.2914671138">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Delmas"/>
+      <tag k="health_facility:paho_id" v="1125068"/>
+      <tag k="name" v="CPFO"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="hospital"/>
+      <tag k="pcode" v="11214"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+  </create>
+</osmChange>

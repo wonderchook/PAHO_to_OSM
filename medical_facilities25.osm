@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-1251" lat="19.8751845239" lon="-72.6177262327">
+      <tag k="health_facility:commune_id" v="22"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="Anse &#224; Foleur"/>
+      <tag k="health_facility:paho_id" v="9225003"/>
+      <tag k="name" v="C&#244;tes de Fer"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="92203"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1252" lat="20.0447018141" lon="-72.7886357504">
+      <tag k="health_facility:commune_id" v="12"/>
+      <tag k="health_facility:department" v="NORD OUEST"/>
+      <tag k="health_facility:commune" v="La Tortue"/>
+      <tag k="health_facility:paho_id" v="9125006"/>
+      <tag k="name" v="Marie Curie"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="91205"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1253" lat="18.508452157" lon="-72.5094809931">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Gressier"/>
+      <tag k="health_facility:paho_id" v="1165153"/>
+      <tag k="name" v="Dispensaire morne a bateau"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11606"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1254" lat="18.508452157" lon="-72.5094809931">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Gressier"/>
+      <tag k="health_facility:paho_id" v="1165152"/>
+      <tag k="name" v="Dispensaire Zev Atizan Lape"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11605"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1255" lat="18.508452157" lon="-72.5094809931">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Gressier"/>
+      <tag k="health_facility:paho_id" v="1165151"/>
+      <tag k="name" v="Centre de Sant&#233; de Alphonse"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11604"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1256" lat="18.508452157" lon="-72.5094809931">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Gressier"/>
+      <tag k="health_facility:paho_id" v="1165150"/>
+      <tag k="name" v="Centre de Sant&#233; FOSADEC"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11603"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1257" lat="18.508452157" lon="-72.5094809931">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Gressier"/>
+      <tag k="health_facility:paho_id" v="1165149"/>
+      <tag k="name" v="Centre de Sant&#233; de Christianville"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="bed" v="no"/>
+      <tag k="pcode" v="11602"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1258" lat="18.508452157" lon="-72.5094809931">
+      <tag k="health_facility:commune_id" v="16"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="Gressier"/>
+      <tag k="health_facility:paho_id" v="1165148"/>
+      <tag k="name" v="Dispensaire Bon Berger"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="11601"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1259" lat="18.2124870891" lon="-72.7888377829">
+      <tag k="health_facility:commune_id" v="21"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="Bainet"/>
+      <tag k="health_facility:paho_id" v="2215018"/>
+      <tag k="name" v="Dispensaire Notre Dame de Lourdes"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="22108"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1260" lat="18.3768537071" lon="-73.4359118163">
+      <tag k="health_facility:commune_id" v="54"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="L&#146;Asile"/>
+      <tag k="health_facility:paho_id" v="10165001"/>
+      <tag k="name" v="SSPE de Morisseaux"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="85404"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1261" lat="18.4534948894" lon="-73.5218762102">
+      <tag k="health_facility:commune_id" v="53"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="Petite Trou de Nippes"/>
+      <tag k="health_facility:paho_id" v="10185007"/>
+      <tag k="name" v="SSPE de Gauthier Civil"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="85302"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1262" lat="18.4534948894" lon="-73.5218762102">
+      <tag k="health_facility:commune_id" v="53"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="Petite Trou de Nippes"/>
+      <tag k="health_facility:paho_id" v="10185006"/>
+      <tag k="name" v="SSPE de Plaisance"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="85303"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1263" lat="18.4932139686" lon="-73.6815879962">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="Baraderes"/>
+      <tag k="health_facility:paho_id" v="10205008"/>
+      <tag k="name" v="Barad&#232;res"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="85201"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1264" lat="18.4559876175" lon="-73.1999653215">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="Miragoane II"/>
+      <tag k="health_facility:paho_id" v="10115004"/>
+      <tag k="name" v="SSPE de L homond"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="84107"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1265" lat="18.4559876175" lon="-73.1999653215">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="Miragoane II"/>
+      <tag k="health_facility:paho_id" v="10115002"/>
+      <tag k="name" v="SSPE de Beraca"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="84105"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+    <node id="-1266" lat="18.3746720755" lon="-73.1164477628">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="Miragoane I"/>
+      <tag k="health_facility:paho_id" v="10115001"/>
+      <tag k="name" v="SSPE St Joseph de Pemerle"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="84110"/>
+      <tag k="source" v="2009_MSPP_database"/>
+    </node>
+  </create>
+</osmChange>

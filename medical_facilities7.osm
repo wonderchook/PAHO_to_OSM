@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="shp-to-osm 0.7">
+  <create version="0.6" generator="shp-to-osm 0.7">
+    <node id="-351" lat="18.3069922951" lon="-72.7096267717">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="LA VALLEE"/>
+      <tag k="health_facility:paho_id" v="2149002"/>
+      <tag k="name" v="DP ST FRANCOIS XAVIER DE BAUDIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95274"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-352" lat="18.9826558532" lon="-72.6460783378">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5310352"/>
+      <tag k="name" v="DP DE GRESSOT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95275"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-353" lat="18.2909922635" lon="-73.5703972272">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="ST. LOUIS DU SUD"/>
+      <tag k="health_facility:paho_id" v="7320353"/>
+      <tag k="name" v="DP SAINTE ANNE DE SUCRERIE HENRY"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95276"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-354" lat="18.786360652" lon="-73.0635770781">
+      <tag k="health_facility:commune_id" v="52"/>
+      <tag k="health_facility:department" v="OUEST"/>
+      <tag k="health_facility:commune" v="POINTE A RAQUETTE"/>
+      <tag k="health_facility:paho_id" v="1520354"/>
+      <tag k="name" v="DISPENSAIRE SAINT LOUIS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="15205"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-355" lat="18.314396312" lon="-72.6595403282">
+      <tag k="health_facility:commune_id" v="14"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="LA VALLEE"/>
+      <tag k="health_facility:paho_id" v="2149001"/>
+      <tag k="name" v="DISPENSAIRE COMMUNAUTAIRE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95277"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-356" lat="19.3300181644" lon="-72.675744451">
+      <tag k="health_facility:commune_id" v="44"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="DESDUNES"/>
+      <tag k="health_facility:paho_id" v="5440356"/>
+      <tag k="name" v="DP AUX SOURCES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95278"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-357" lat="19.0754144577" lon="-72.7087390478">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5310357"/>
+      <tag k="name" v="DP DE JEANTON"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95279"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-358" lat="18.2273606494" lon="-72.4663851201">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110358"/>
+      <tag k="name" v="DP DE CYVADIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95280"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-359" lat="19.0490626288" lon="-72.7148284573">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319005"/>
+      <tag k="name" v="DP MAX FERDINAND"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95281"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-360" lat="18.5749215257" lon="-73.7083098438">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="NIPPES"/>
+      <tag k="health_facility:commune" v="GRAND BOUCAN"/>
+      <tag k="health_facility:paho_id" v="10219001"/>
+      <tag k="name" v="DISPENSAIRE &quot;LES BASSES&quot;"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95282"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-361" lat="18.2600921967" lon="-72.5084954578">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110361"/>
+      <tag k="name" v="DP DES ORANGERS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95283"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-362" lat="18.1320791674" lon="-73.9469257706">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="PORT-SALUT"/>
+      <tag k="health_facility:paho_id" v="7210362"/>
+      <tag k="name" v="DP DE CARPENTIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95284"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-363" lat="18.5952867128" lon="-74.1379169942">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="GRANDE ANSE"/>
+      <tag k="health_facility:commune" v="JEREMIE"/>
+      <tag k="health_facility:paho_id" v="8110363"/>
+      <tag k="name" v="DISPENSAIRE DE LATIBOLIERE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95285"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-364" lat="19.1492669393" lon="-72.5042015804">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="PETITE RIVIERE DE L&apos;ARTIBONITE"/>
+      <tag k="health_facility:paho_id" v="5420364"/>
+      <tag k="name" v="DP DE SEGUR"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95286"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-365" lat="19.3009188342" lon="-72.6503778257">
+      <tag k="health_facility:commune_id" v="44"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="DESDUNES"/>
+      <tag k="health_facility:paho_id" v="5449002"/>
+      <tag k="name" v="DP DE DESCAREAUX"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95287"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-366" lat="18.1798982688" lon="-74.0033858074">
+      <tag k="health_facility:commune_id" v="43"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="ROCHE-A-BATEAU"/>
+      <tag k="health_facility:paho_id" v="7430366"/>
+      <tag k="name" v="DP LILIAN DE ROCHE A BATEAU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95288"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-367" lat="19.2370422269" lon="-72.6414662396">
+      <tag k="health_facility:commune_id" v="43"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GRANDE SALINE"/>
+      <tag k="health_facility:paho_id" v="5439001"/>
+      <tag k="name" v="DP PA NOU AN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95289"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-368" lat="18.2810414911" lon="-72.5179245755">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110368"/>
+      <tag k="name" v="DP DE LAFOND"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95290"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-369" lat="19.1844849823" lon="-72.5428495739">
+      <tag k="health_facility:commune_id" v="42"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="PETITE RIVIERE DE L&apos;ARTIBONITE"/>
+      <tag k="health_facility:paho_id" v="5420369"/>
+      <tag k="name" v="DP DE JEAN DENIS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95291"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-370" lat="19.2563533418" lon="-72.6897178801">
+      <tag k="health_facility:commune_id" v="43"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GRANDE SALINE"/>
+      <tag k="health_facility:paho_id" v="5430370"/>
+      <tag k="name" v="DP BEREE DE DROUIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95292"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-371" lat="18.2292751677" lon="-74.0636986354">
+      <tag k="health_facility:commune_id" v="41"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="COTEAUX"/>
+      <tag k="health_facility:paho_id" v="7410371"/>
+      <tag k="name" v="DP DE DAMASSIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95293"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-372" lat="19.0287896945" lon="-72.4203014407">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="VERRETTES"/>
+      <tag k="health_facility:paho_id" v="5329002"/>
+      <tag k="name" v="DP COMMUNAUTAIRE DE MARIN"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95294"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-373" lat="18.3333884035" lon="-72.471908327">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110373"/>
+      <tag k="name" v="DP DE MARBIAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95295"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-374" lat="19.2068800422" lon="-72.6402806351">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319002"/>
+      <tag k="name" v="CENTRE MEDICAL DE LA RHEMA"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95296"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-375" lat="18.9918937229" lon="-72.3895722305">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="VERRETTES"/>
+      <tag k="health_facility:paho_id" v="5320375"/>
+      <tag k="name" v="DP DE DESARMES (SOE)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95297"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-376" lat="18.3177498626" lon="-74.0933330082">
+      <tag k="health_facility:commune_id" v="51"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="CHARDONNIERES"/>
+      <tag k="health_facility:paho_id" v="7510376"/>
+      <tag k="name" v="DP SAINTE ANNE DE RENDEL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95298"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-377" lat="18.3272726439" lon="-72.4629475188">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110377"/>
+      <tag k="name" v="DP SAINTE THERESE DE MARBIAL"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95299"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-378" lat="18.902859922" lon="-72.2773534311">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="LA CHAPELLE"/>
+      <tag k="health_facility:paho_id" v="5339001"/>
+      <tag k="name" v="DP DE BOSSOU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95300"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-379" lat="18.0602275003" lon="-73.8848275183">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="PORT-SALUT"/>
+      <tag k="health_facility:paho_id" v="7210379"/>
+      <tag k="name" v="DP DE DUMONT"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95301"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-380" lat="18.3272994161" lon="-72.4984654805">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110380"/>
+      <tag k="name" v="DP DE LAVOUTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95302"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-381" lat="19.165290128" lon="-72.6360642096">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5319003"/>
+      <tag k="name" v="DP CLEMENTINE ET LORISMENE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95303"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-382" lat="19.1489129512" lon="-72.616949061">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5310382"/>
+      <tag k="name" v="DP DE PONT SONDE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95304"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-383" lat="18.9140827462" lon="-72.3163378851">
+      <tag k="health_facility:commune_id" v="33"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="LA CHAPELLE"/>
+      <tag k="health_facility:paho_id" v="5330383"/>
+      <tag k="name" v="DP DE LACHAPELLE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95305"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-384" lat="18.3173483532" lon="-73.3780085422">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="AQUIN"/>
+      <tag k="health_facility:paho_id" v="7319007"/>
+      <tag k="name" v="DP MEN ANSANM DE SAINTE THERESE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95306"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-385" lat="18.3273419378" lon="-72.5093020958">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110385"/>
+      <tag k="name" v="DP NOTRE DAME"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95307"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-386" lat="18.2640901179" lon="-73.5426315183">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="ST. LOUIS DU SUD"/>
+      <tag k="health_facility:paho_id" v="7320386"/>
+      <tag k="name" v="DP SAINT PATRICK"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95308"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-387" lat="19.0801834282" lon="-72.6748641788">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5310387"/>
+      <tag k="name" v="DP DE CHARETTE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95309"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-388" lat="18.2159905977" lon="-72.6236590638">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2119002"/>
+      <tag k="name" v="DP DE LACROIX"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95310"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-389" lat="18.9777905817" lon="-72.4064223792">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="VERRETTES"/>
+      <tag k="health_facility:paho_id" v="5329003"/>
+      <tag k="name" v="DP DE CHRISTANT (SOE)"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95311"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-390" lat="18.1900042393" lon="-73.1040863613">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="SUD"/>
+      <tag k="health_facility:commune" v="AQUIN"/>
+      <tag k="health_facility:paho_id" v="7310390"/>
+      <tag k="name" v="DP DE MOUILLAGE FOUQUET"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95312"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-391" lat="18.2583982503" lon="-72.6078625551">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="SUD EST"/>
+      <tag k="health_facility:commune" v="JACMEL"/>
+      <tag k="health_facility:paho_id" v="2110391"/>
+      <tag k="name" v="DP DE LAVANNEAU"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95313"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-392" lat="18.9513856616" lon="-72.7056445729">
+      <tag k="health_facility:commune_id" v="31"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="SAINT-MARC"/>
+      <tag k="health_facility:paho_id" v="5310392"/>
+      <tag k="name" v="DP DE MONTROUIS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95314"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-393" lat="19.0817042818" lon="-72.4953087994">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="VERRETTES"/>
+      <tag k="health_facility:paho_id" v="5320393"/>
+      <tag k="name" v="DP DE DESCHAPELLES"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95315"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-394" lat="19.553765636" lon="-72.901571097">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="ANSE ROUGE"/>
+      <tag k="health_facility:paho_id" v="5230394"/>
+      <tag k="name" v="DP DE CORIDON"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95316"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-395" lat="19.662743204" lon="-73.021173421">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="ANSE ROUGE"/>
+      <tag k="health_facility:paho_id" v="5230395"/>
+      <tag k="name" v="DISPENSAIRE ILODEP"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95317"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-396" lat="19.6338507856" lon="-72.9182542542">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="ANSE ROUGE"/>
+      <tag k="health_facility:paho_id" v="5230396"/>
+      <tag k="name" v="DP DE SOURCE CHAUDE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="MSPP"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95318"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-397" lat="19.5898728922" lon="-72.8865221555">
+      <tag k="health_facility:commune_id" v="23"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="ANSE ROUGE"/>
+      <tag k="health_facility:paho_id" v="5230397"/>
+      <tag k="name" v="DISPENSAIRE FIGUIER"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95319"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-398" lat="18.8945226706" lon="-71.8367562005">
+      <tag k="health_facility:commune_id" v="32"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="BELLADERE"/>
+      <tag k="health_facility:paho_id" v="6320398"/>
+      <tag k="name" v="DISPENSAIRE ROY - SEC"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="amenity" v="pharmacy"/>
+      <tag k="pcode" v="95320"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-399" lat="19.6100211527" lon="-72.6158429544">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="ARTIBONITE"/>
+      <tag k="health_facility:commune" v="GONAIVES"/>
+      <tag k="health_facility:paho_id" v="5110399"/>
+      <tag k="name" v="CENTRE DE SANTE LABRANLE"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="organization" v="COMMUNAUTAIRE"/>
+      <tag k="amenity" v="clinic"/>
+      <tag k="pcode" v="95321"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+    <node id="-400" lat="19.1438379235" lon="-71.9399037797">
+      <tag k="health_facility:commune_id" v="11"/>
+      <tag k="health_facility:department" v="CENTRE"/>
+      <tag k="health_facility:commune" v="HINCHE"/>
+      <tag k="health_facility:paho_id" v="6110400"/>
+      <tag k="name" v="MANMAN BON DIE DE LOS - PALIS"/>
+      <tag k="geometry_source_type" v="PAHO"/>
+      <tag k="attribute_source_type" v="PAHO"/>
+      <tag k="FIXME" v="unknown_health_facility"/>
+      <tag k="pcode" v="95322"/>
+      <tag k="source" v="2005 MSPP database with geocodes"/>
+    </node>
+  </create>
+</osmChange>
